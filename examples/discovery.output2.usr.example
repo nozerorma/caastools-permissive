@@ -1,0 +1,13 @@
+Gene	Trait	Position	Substitution	Pvalue	Pattern	FFGN	FBGN	GFG	GBG	MFG	MBG	FFG	FBG	MS	ConservedPair	ConservedPairs
+BRCA2	config_np.tab	39	PT/AA	0.12091967714260479	pattern3	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	411	NC/HH	0.031949678236803274	pattern3	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	443	RR/CH	0.09923449746875228	pattern2	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	937	VY/DD	0.05061609379499599	pattern3	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	1171	EE/QG	0.025600364265521203	pattern2	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	1451	YR/HH	0.009432615163136576	pattern3	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	1456	II/MT	0.1393138393632676	pattern2	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	2028	VL/MM	0.004104013319751834	pattern3	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	2083	LL/FF	0.05901210513399235	pattern1	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	2089	SS/TY	0.0015863500810672179	pattern2	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	3145	PP/LS	0.11520863081814067	pattern2	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
+BRCA2	config_np.tab	3315	AA/TT	0.07513422451444339	pattern1	2	2	0	0	1	1	Gorilla_gorilla,Nycticebus_pygmaeus	Galago_senegalensis,Theropithecus_gelada	Saguinus_oedipus,Saguinus_midas	FALSE	0:
