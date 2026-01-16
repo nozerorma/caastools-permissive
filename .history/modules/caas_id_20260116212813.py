@@ -211,7 +211,7 @@ def process_position(position, multiconfig, species_in_alignment):
 # FUNCTION check_pattern()
 # checks the pattern
 
-def iscaas(input_string, multiconfig=None, position_dict=None, max_conserved=0, trait=None, fg_species_list=None, bg_species_list=None):
+def iscaas(input_string, multiconfig=None, position_dict=None, max_conserved=0, trait=None):
     
     class caaspositive():
         def __init__(self):
@@ -238,20 +238,13 @@ def iscaas(input_string, multiconfig=None, position_dict=None, max_conserved=0, 
                 break
     else:
         # Simplified position-by-position conserved counting
-        # Count how many positions have matching amino acids and track which pairs
+        # Count how many positions have matching amino acids
         num_conserved_positions = 0
-        conserved_pair_indices = []
         min_len = min(len(fg_string), len(bg_string))
         
         for i in range(min_len):
             if fg_string[i] == bg_string[i]:
                 num_conserved_positions += 1
-                # Track which pair this position corresponds to
-                if fg_species_list and bg_species_list and i < len(fg_species_list) and i < len(bg_species_list):
-                    fg_sp = fg_species_list[i]
-                    pair_id = multiconfig.get_pair(fg_sp)
-                    if pair_id:
-                        conserved_pair_indices.append(pair_id)
         
         # Check if conserved positions exceed threshold
         if num_conserved_positions > max_conserved:
@@ -289,13 +282,10 @@ def iscaas(input_string, multiconfig=None, position_dict=None, max_conserved=0, 
                     z.caas = False
                 else:
                     z.caas = True
-                    # Format: "count:pair1,pair2,..."
-                    pair_list = ",".join(conserved_pair_indices) if conserved_pair_indices else ""
-                    z.conserved_pairs = f"{num_conserved_positions}:{pair_list}"
+                    z.conserved_pairs = f"{num_conserved_positions}:"
             else:
                 z.caas = True
-                pair_list = ",".join(conserved_pair_indices) if conserved_pair_indices else ""
-                z.conserved_pairs = f"{num_conserved_positions}:{pair_list}"
+                z.conserved_pairs = f"{num_conserved_positions}:"
 
     # What is the pattern?
     if len(fg_unique) == 1 and len(bg_unique) == 1:
@@ -429,7 +419,7 @@ def fetch_caas(genename, processed_position, list_of_traits, output_file, maxgap
 
             tag = "/".join([aa_tag_fg, aa_tag_bg])
 
-            check = iscaas(tag, multiconfig, processed_position.d, max_conserved, x, fg_species, bg_species)
+            check = iscaas(tag, multiconfig, processed_position.d, max_conserved, x)
 
             if check.caas == True and check.pattern in admitted_patterns:
                 # Store pattern info including conserved pair information
@@ -487,25 +477,11 @@ def fetch_caas(genename, processed_position, list_of_traits, output_file, maxgap
                 fg_species_number = str(len(processed_position.trait2ungapped_fg[traitname]))
                 bg_species_number = str(len(processed_position.trait2ungapped_bg[traitname]))
 
-                fg_ungapped = processed_position.trait2ungapped_fg[traitname][:]
-                bg_ungapped = processed_position.trait2ungapped_bg[traitname][:]
+                fg_ungapped = processed_position.trait2ungapped_fg[traitname]
+                bg_ungapped = processed_position.trait2ungapped_bg[traitname]
 
-                # Sort species by pair number if in paired mode, otherwise alphabetically
-                if multiconfig.paired_mode:
-                    def pair_sort_key(sp):
-                        pair_id = multiconfig.get_pair(sp)
-                        if pair_id:
-                            try:
-                                return (int(pair_id), sp)
-                            except (ValueError, TypeError):
-                                return (float('inf'), sp)
-                        return (float('inf'), sp)
-                    
-                    fg_ungapped.sort(key=pair_sort_key)
-                    bg_ungapped.sort(key=pair_sort_key)
-                else:
-                    fg_ungapped.sort()
-                    bg_ungapped.sort()
+                fg_ungapped.sort()
+                bg_ungapped.sort()
 
                 missings = "-"
 

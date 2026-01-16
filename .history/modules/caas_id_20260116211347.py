@@ -211,96 +211,57 @@ def process_position(position, multiconfig, species_in_alignment):
 # FUNCTION check_pattern()
 # checks the pattern
 
-def iscaas(input_string, multiconfig=None, position_dict=None, max_conserved=0, trait=None, fg_species_list=None, bg_species_list=None):
+def iscaas(input_string, multiconfig=None, position_dict=None, max_conserved=0, trait=None):
     
     class caaspositive():
         def __init__(self):
             self.caas = True
             self.pattern = "4"
-            self.conserved_pairs = "0:"
+            self.conserved_positions = 0
     
     z = caaspositive()
 
     twosides = input_string.split("/")
-    fg_string = twosides[0]
-    bg_string = twosides[1]
+    fg = twosides[0]
+    bg = twosides[1]
+
+    # Count how many positions have the same amino acid (conserved)
+    num_conserved = 0
+    conserved_indices = []
+    min_len = min(len(fg), len(bg))
     
-    # Convert to unique amino acids for pattern determination
-    fg_unique = list(set(fg_string))
-    bg_unique = list(set(bg_string))
-
-    # Standard CAAS check (no overlap allowed)
-    if max_conserved == 0 or not multiconfig or not multiconfig.paired_mode:
-        # Original logic: strict no-overlap
-        for x in fg_unique:
-            if x in bg_unique:
-                z.caas = False
-                break
+    for i in range(min_len):
+        if fg[i] == bg[i]:
+            num_conserved += 1
+            conserved_indices.append(i)
+    
+    z.conserved_positions = num_conserved
+    
+    # Check if CAAS is valid based on max_conserved threshold
+    if num_conserved > max_conserved:
+        z.caas = False
     else:
-        # Simplified position-by-position conserved counting
-        # Count how many positions have matching amino acids and track which pairs
-        num_conserved_positions = 0
-        conserved_pair_indices = []
-        min_len = min(len(fg_string), len(bg_string))
-        
-        for i in range(min_len):
-            if fg_string[i] == bg_string[i]:
-                num_conserved_positions += 1
-                # Track which pair this position corresponds to
-                if fg_species_list and bg_species_list and i < len(fg_species_list) and i < len(bg_species_list):
-                    fg_sp = fg_species_list[i]
-                    pair_id = multiconfig.get_pair(fg_sp)
-                    if pair_id:
-                        conserved_pair_indices.append(pair_id)
-        
-        # Check if conserved positions exceed threshold
-        if num_conserved_positions > max_conserved:
-            z.caas = False
-        else:
-            # Need to ensure at least 2 species changed on at least one side
-            # Build species-to-AA mapping from position_dict
-            species2aa = {}
-            if position_dict:
-                for species, aa_info in position_dict.items():
-                    aa = aa_info.split("@")[0]
-                    species2aa[species] = aa
-            
-            # Get FG and BG species for this trait (only those present at this position)
-            if trait and multiconfig:
-                # Only consider species that are actually present (not gapped/missing) at this position
-                fg_species_all = [sp for sp in multiconfig.trait2fg.get(trait, []) if sp in species2aa]
-                bg_species_all = [sp for sp in multiconfig.trait2bg.get(trait, []) if sp in species2aa]
-                
-                # Find overlapping amino acids (those that appear in both FG and BG)
-                fg_aas = set(species2aa[sp] for sp in fg_species_all)
-                bg_aas = set(species2aa[sp] for sp in bg_species_all)
-                overlap_aas = fg_aas.intersection(bg_aas)
-                
-                # Count species with non-overlapping amino acids (actual changes)
-                # We need at least 2 species to have changed on one side for meaningful divergence
-                fg_changed_count = sum(1 for sp in fg_species_all 
-                                      if species2aa[sp] not in overlap_aas)
-                bg_changed_count = sum(1 for sp in bg_species_all 
-                                      if species2aa[sp] not in overlap_aas)
-                
-                # At least one side must have 2+ species that changed (have non-overlapping AAs)
-                if fg_changed_count < 2 and bg_changed_count < 2:
-                    # Not enough changes - need at least 2 species changed on one side
-                    z.caas = False
-                else:
-                    z.caas = True
-                    # Format: "count:pair1,pair2,..."
-                    pair_list = ",".join(conserved_pair_indices) if conserved_pair_indices else ""
-                    z.conserved_pairs = f"{num_conserved_positions}:{pair_list}"
-            else:
-                z.caas = True
-                pair_list = ",".join(conserved_pair_indices) if conserved_pair_indices else ""
-                z.conserved_pairs = f"{num_conserved_positions}:{pair_list}"
+        z.caas = True
 
-    # What is the pattern?
+    # What is the pattern? (based on unique amino acids)
+    fg_unique = list(set(fg))
+    bg_unique = list(set(bg))
+    
+    # At least one side must have 2+ species that changed
+    if fg_changed_count < 2 and bg_changed_count < 2:
+        # Not enough changes - need at least 2 species changed on one side
+        z.caas = False
+    else:
+        num_conserved_pairs = len(conserved_pair_set)
+        if num_conserved_pairs <= max_conserved:
+            z.caas = True
+            conserved_pairs_list = sorted(list(conserved_pair_set))
+            z.conserved_pairs = f"{num_conserved_pairs}:{','.join(conserved_pairs_list)}"
+        else:
+            z.caas = False
+    
     if len(fg_unique) == 1 and len(bg_unique) == 1:
         z.pattern = "1"
-    
     elif len(fg_unique) == 1:
         z.pattern = "2"
     elif len(bg_unique) == 1:
@@ -310,6 +271,8 @@ def iscaas(input_string, multiconfig=None, position_dict=None, max_conserved=0, 
         z.pattern = "null"
     
     return z
+                
+
 
 # FUNCTION fetch_caas():
 # fetches caas per each thing
@@ -404,24 +367,9 @@ def fetch_caas(genename, processed_position, list_of_traits, output_file, maxgap
         for x in valid_traits:
             # Get foreground and background species lists (already filtered for ungapped)
             fg_species = processed_position.trait2ungapped_fg[x][:]
+            fg_species.sort()
             bg_species = processed_position.trait2ungapped_bg[x][:]
-            
-            # Sort species by pair number if in paired mode, otherwise alphabetically
-            if multiconfig.paired_mode:
-                def pair_sort_key(sp):
-                    pair_id = multiconfig.get_pair(sp)
-                    if pair_id:
-                        try:
-                            return (int(pair_id), sp)
-                        except (ValueError, TypeError):
-                            return (float('inf'), sp)  # Non-numeric pairs go to end
-                    return (float('inf'), sp)  # No pair goes to end
-                
-                fg_species.sort(key=pair_sort_key)
-                bg_species.sort(key=pair_sort_key)
-            else:
-                fg_species.sort()
-                bg_species.sort()
+            bg_species.sort()
 
             # Extract amino acid for each species to create expanded pattern
             aa_tag_fg = "".join([processed_position.d[sp].split("@")[0] for sp in fg_species])
@@ -429,7 +377,7 @@ def fetch_caas(genename, processed_position, list_of_traits, output_file, maxgap
 
             tag = "/".join([aa_tag_fg, aa_tag_bg])
 
-            check = iscaas(tag, multiconfig, processed_position.d, max_conserved, x, fg_species, bg_species)
+            check = iscaas(tag, multiconfig, processed_position.d, max_conserved, x)
 
             if check.caas == True and check.pattern in admitted_patterns:
                 # Store pattern info including conserved pair information
@@ -487,25 +435,11 @@ def fetch_caas(genename, processed_position, list_of_traits, output_file, maxgap
                 fg_species_number = str(len(processed_position.trait2ungapped_fg[traitname]))
                 bg_species_number = str(len(processed_position.trait2ungapped_bg[traitname]))
 
-                fg_ungapped = processed_position.trait2ungapped_fg[traitname][:]
-                bg_ungapped = processed_position.trait2ungapped_bg[traitname][:]
+                fg_ungapped = processed_position.trait2ungapped_fg[traitname]
+                bg_ungapped = processed_position.trait2ungapped_bg[traitname]
 
-                # Sort species by pair number if in paired mode, otherwise alphabetically
-                if multiconfig.paired_mode:
-                    def pair_sort_key(sp):
-                        pair_id = multiconfig.get_pair(sp)
-                        if pair_id:
-                            try:
-                                return (int(pair_id), sp)
-                            except (ValueError, TypeError):
-                                return (float('inf'), sp)
-                        return (float('inf'), sp)
-                    
-                    fg_ungapped.sort(key=pair_sort_key)
-                    bg_ungapped.sort(key=pair_sort_key)
-                else:
-                    fg_ungapped.sort()
-                    bg_ungapped.sort()
+                fg_ungapped.sort()
+                bg_ungapped.sort()
 
                 missings = "-"
 
