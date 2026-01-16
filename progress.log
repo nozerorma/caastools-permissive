@@ -1,0 +1,1204 @@
+[16:44:18] Processing file resample_001.tab: 1/4 (25.0%) | Elapsed: 0s | ETA: 0s
+[16:44:18] Processing file resample_002.tab: 2/4 (50.0%) | Elapsed: 0s | ETA: 0s
+[16:44:18] Processing file resample_003.tab: 3/4 (75.0%) | Elapsed: 0s | ETA: 0s
+[16:44:18] Processing file resample_004.tab: 4/4 (100.0%) | Elapsed: 0s | ETA: 0s
+[16:47:54] Processing file resample_001.tab: 1/200 (0.5%) | Elapsed: 0s | ETA: 0s
+[16:47:54] Processing file resample_002.tab: 2/200 (1.0%) | Elapsed: 0s | ETA: 5s
+[16:47:54] Processing file resample_003.tab: 3/200 (1.5%) | Elapsed: 0s | ETA: 7s
+[16:47:54] Processing file resample_004.tab: 4/200 (2.0%) | Elapsed: 0s | ETA: 8s
+[16:47:54] Processing file resample_005.tab: 5/200 (2.5%) | Elapsed: 0s | ETA: 9s
+[16:47:54] Processing file resample_006.tab: 6/200 (3.0%) | Elapsed: 0s | ETA: 9s
+[16:47:54] Processing file resample_007.tab: 7/200 (3.5%) | Elapsed: 0s | ETA: 9s
+[16:47:54] Processing file resample_008.tab: 8/200 (4.0%) | Elapsed: 0s | ETA: 9s
+[16:47:54] Processing file resample_009.tab: 9/200 (4.5%) | Elapsed: 0s | ETA: 9s
+[16:47:54] Processing file resample_010.tab: 10/200 (5.0%) | Elapsed: 0s | ETA: 9s
+[16:47:54] Processing file resample_011.tab: 11/200 (5.5%) | Elapsed: 0s | ETA: 9s
+[16:47:54] Processing file resample_012.tab: 12/200 (6.0%) | Elapsed: 0s | ETA: 9s
+[16:47:54] Processing file resample_013.tab: 13/200 (6.5%) | Elapsed: 0s | ETA: 9s
+[16:47:55] Processing file resample_014.tab: 14/200 (7.0%) | Elapsed: 0s | ETA: 9s
+[16:47:55] Processing file resample_015.tab: 15/200 (7.5%) | Elapsed: 0s | ETA: 9s
+[16:47:55] Processing file resample_016.tab: 16/200 (8.0%) | Elapsed: 0s | ETA: 9s
+[16:47:55] Processing file resample_017.tab: 17/200 (8.5%) | Elapsed: 0s | ETA: 9s
+[16:47:55] Processing file resample_018.tab: 18/200 (9.0%) | Elapsed: 0s | ETA: 9s
+[16:47:55] Processing file resample_019.tab: 19/200 (9.5%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_020.tab: 20/200 (10.0%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_021.tab: 21/200 (10.5%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_022.tab: 22/200 (11.0%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_023.tab: 23/200 (11.5%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_024.tab: 24/200 (12.0%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_025.tab: 25/200 (12.5%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_026.tab: 26/200 (13.0%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_027.tab: 27/200 (13.5%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_028.tab: 28/200 (14.0%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_029.tab: 29/200 (14.5%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_030.tab: 30/200 (15.0%) | Elapsed: 1s | ETA: 9s
+[16:47:55] Processing file resample_031.tab: 31/200 (15.5%) | Elapsed: 1s | ETA: 9s
+[16:47:56] Processing file resample_032.tab: 32/200 (16.0%) | Elapsed: 1s | ETA: 9s
+[16:47:56] Processing file resample_033.tab: 33/200 (16.5%) | Elapsed: 1s | ETA: 9s
+[16:47:56] Processing file resample_034.tab: 34/200 (17.0%) | Elapsed: 1s | ETA: 9s
+[16:47:56] Processing file resample_035.tab: 35/200 (17.5%) | Elapsed: 1s | ETA: 9s
+[16:47:56] Processing file resample_036.tab: 36/200 (18.0%) | Elapsed: 1s | ETA: 8s
+[16:47:56] Processing file resample_037.tab: 37/200 (18.5%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_038.tab: 38/200 (19.0%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_039.tab: 39/200 (19.5%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_040.tab: 40/200 (20.0%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_041.tab: 41/200 (20.5%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_042.tab: 42/200 (21.0%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_043.tab: 43/200 (21.5%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_044.tab: 44/200 (22.0%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_045.tab: 45/200 (22.5%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_046.tab: 46/200 (23.0%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_047.tab: 47/200 (23.5%) | Elapsed: 2s | ETA: 8s
+[16:47:56] Processing file resample_048.tab: 48/200 (24.0%) | Elapsed: 2s | ETA: 8s
+[16:47:57] Processing file resample_049.tab: 49/200 (24.5%) | Elapsed: 2s | ETA: 8s
+[16:47:57] Processing file resample_050.tab: 50/200 (25.0%) | Elapsed: 2s | ETA: 8s
+[16:47:57] Processing file resample_051.tab: 51/200 (25.5%) | Elapsed: 2s | ETA: 8s
+[16:47:57] Processing file resample_052.tab: 52/200 (26.0%) | Elapsed: 2s | ETA: 8s
+[16:47:57] Processing file resample_053.tab: 53/200 (26.5%) | Elapsed: 2s | ETA: 8s
+[16:47:57] Processing file resample_054.tab: 54/200 (27.0%) | Elapsed: 2s | ETA: 8s
+[16:47:57] Processing file resample_055.tab: 55/200 (27.5%) | Elapsed: 3s | ETA: 8s
+[16:47:57] Processing file resample_056.tab: 56/200 (28.0%) | Elapsed: 3s | ETA: 7s
+[16:47:57] Processing file resample_057.tab: 57/200 (28.5%) | Elapsed: 3s | ETA: 7s
+[16:47:57] Processing file resample_058.tab: 58/200 (29.0%) | Elapsed: 3s | ETA: 7s
+[16:47:57] Processing file resample_059.tab: 59/200 (29.5%) | Elapsed: 3s | ETA: 7s
+[16:47:57] Processing file resample_060.tab: 60/200 (30.0%) | Elapsed: 3s | ETA: 7s
+[16:47:57] Processing file resample_061.tab: 61/200 (30.5%) | Elapsed: 3s | ETA: 7s
+[16:47:57] Processing file resample_062.tab: 62/200 (31.0%) | Elapsed: 3s | ETA: 7s
+[16:47:57] Processing file resample_063.tab: 63/200 (31.5%) | Elapsed: 3s | ETA: 7s
+[16:47:57] Processing file resample_064.tab: 64/200 (32.0%) | Elapsed: 3s | ETA: 7s
+[16:47:57] Processing file resample_065.tab: 65/200 (32.5%) | Elapsed: 3s | ETA: 7s
+[16:47:57] Processing file resample_066.tab: 66/200 (33.0%) | Elapsed: 3s | ETA: 7s
+[16:47:58] Processing file resample_067.tab: 67/200 (33.5%) | Elapsed: 3s | ETA: 7s
+[16:47:58] Processing file resample_068.tab: 68/200 (34.0%) | Elapsed: 3s | ETA: 7s
+[16:47:58] Processing file resample_069.tab: 69/200 (34.5%) | Elapsed: 3s | ETA: 7s
+[16:47:58] Processing file resample_070.tab: 70/200 (35.0%) | Elapsed: 3s | ETA: 7s
+[16:47:58] Processing file resample_071.tab: 71/200 (35.5%) | Elapsed: 3s | ETA: 7s
+[16:47:58] Processing file resample_072.tab: 72/200 (36.0%) | Elapsed: 4s | ETA: 7s
+[16:47:58] Processing file resample_073.tab: 73/200 (36.5%) | Elapsed: 4s | ETA: 7s
+[16:47:58] Processing file resample_074.tab: 74/200 (37.0%) | Elapsed: 4s | ETA: 7s
+[16:47:58] Processing file resample_075.tab: 75/200 (37.5%) | Elapsed: 4s | ETA: 7s
+[16:47:58] Processing file resample_076.tab: 76/200 (38.0%) | Elapsed: 4s | ETA: 6s
+[16:47:58] Processing file resample_077.tab: 77/200 (38.5%) | Elapsed: 4s | ETA: 6s
+[16:47:58] Processing file resample_078.tab: 78/200 (39.0%) | Elapsed: 4s | ETA: 6s
+[16:47:58] Processing file resample_079.tab: 79/200 (39.5%) | Elapsed: 4s | ETA: 6s
+[16:47:58] Processing file resample_080.tab: 80/200 (40.0%) | Elapsed: 4s | ETA: 6s
+[16:47:58] Processing file resample_081.tab: 81/200 (40.5%) | Elapsed: 4s | ETA: 6s
+[16:47:58] Processing file resample_082.tab: 82/200 (41.0%) | Elapsed: 4s | ETA: 6s
+[16:47:58] Processing file resample_083.tab: 83/200 (41.5%) | Elapsed: 4s | ETA: 6s
+[16:47:59] Processing file resample_084.tab: 84/200 (42.0%) | Elapsed: 4s | ETA: 6s
+[16:47:59] Processing file resample_085.tab: 85/200 (42.5%) | Elapsed: 4s | ETA: 6s
+[16:47:59] Processing file resample_086.tab: 86/200 (43.0%) | Elapsed: 4s | ETA: 6s
+[16:47:59] Processing file resample_087.tab: 87/200 (43.5%) | Elapsed: 4s | ETA: 6s
+[16:47:59] Processing file resample_088.tab: 88/200 (44.0%) | Elapsed: 4s | ETA: 6s
+[16:47:59] Processing file resample_089.tab: 89/200 (44.5%) | Elapsed: 5s | ETA: 6s
+[16:47:59] Processing file resample_090.tab: 90/200 (45.0%) | Elapsed: 5s | ETA: 6s
+[16:47:59] Processing file resample_091.tab: 91/200 (45.5%) | Elapsed: 5s | ETA: 6s
+[16:47:59] Processing file resample_092.tab: 92/200 (46.0%) | Elapsed: 5s | ETA: 6s
+[16:47:59] Processing file resample_093.tab: 93/200 (46.5%) | Elapsed: 5s | ETA: 6s
+[16:47:59] Processing file resample_094.tab: 94/200 (47.0%) | Elapsed: 5s | ETA: 5s
+[16:47:59] Processing file resample_095.tab: 95/200 (47.5%) | Elapsed: 5s | ETA: 5s
+[16:47:59] Processing file resample_096.tab: 96/200 (48.0%) | Elapsed: 5s | ETA: 5s
+[16:47:59] Processing file resample_097.tab: 97/200 (48.5%) | Elapsed: 5s | ETA: 5s
+[16:47:59] Processing file resample_098.tab: 98/200 (49.0%) | Elapsed: 5s | ETA: 5s
+[16:47:59] Processing file resample_099.tab: 99/200 (49.5%) | Elapsed: 5s | ETA: 5s
+[16:47:59] Processing file resample_100.tab: 100/200 (50.0%) | Elapsed: 5s | ETA: 5s
+[16:47:59] Processing file resample_101.tab: 101/200 (50.5%) | Elapsed: 5s | ETA: 5s
+[16:48:00] Processing file resample_102.tab: 102/200 (51.0%) | Elapsed: 5s | ETA: 5s
+[16:48:00] Processing file resample_103.tab: 103/200 (51.5%) | Elapsed: 5s | ETA: 5s
+[16:48:00] Processing file resample_104.tab: 104/200 (52.0%) | Elapsed: 5s | ETA: 5s
+[16:48:00] Processing file resample_105.tab: 105/200 (52.5%) | Elapsed: 5s | ETA: 5s
+[16:48:00] Processing file resample_106.tab: 106/200 (53.0%) | Elapsed: 5s | ETA: 5s
+[16:48:00] Processing file resample_107.tab: 107/200 (53.5%) | Elapsed: 6s | ETA: 5s
+[16:48:00] Processing file resample_108.tab: 108/200 (54.0%) | Elapsed: 6s | ETA: 5s
+[16:48:00] Processing file resample_109.tab: 109/200 (54.5%) | Elapsed: 6s | ETA: 5s
+[16:48:00] Processing file resample_110.tab: 110/200 (55.0%) | Elapsed: 6s | ETA: 5s
+[16:48:00] Processing file resample_111.tab: 111/200 (55.5%) | Elapsed: 6s | ETA: 5s
+[16:48:00] Processing file resample_112.tab: 112/200 (56.0%) | Elapsed: 6s | ETA: 4s
+[16:48:00] Processing file resample_113.tab: 113/200 (56.5%) | Elapsed: 6s | ETA: 4s
+[16:48:00] Processing file resample_114.tab: 114/200 (57.0%) | Elapsed: 6s | ETA: 4s
+[16:48:00] Processing file resample_115.tab: 115/200 (57.5%) | Elapsed: 6s | ETA: 4s
+[16:48:00] Processing file resample_116.tab: 116/200 (58.0%) | Elapsed: 6s | ETA: 4s
+[16:48:00] Processing file resample_117.tab: 117/200 (58.5%) | Elapsed: 6s | ETA: 4s
+[16:48:00] Processing file resample_118.tab: 118/200 (59.0%) | Elapsed: 6s | ETA: 4s
+[16:48:01] Processing file resample_119.tab: 119/200 (59.5%) | Elapsed: 6s | ETA: 4s
+[16:48:01] Processing file resample_120.tab: 120/200 (60.0%) | Elapsed: 6s | ETA: 4s
+[16:48:01] Processing file resample_121.tab: 121/200 (60.5%) | Elapsed: 6s | ETA: 4s
+[16:48:01] Processing file resample_122.tab: 122/200 (61.0%) | Elapsed: 6s | ETA: 4s
+[16:48:01] Processing file resample_123.tab: 123/200 (61.5%) | Elapsed: 6s | ETA: 4s
+[16:48:01] Processing file resample_124.tab: 124/200 (62.0%) | Elapsed: 6s | ETA: 4s
+[16:48:01] Processing file resample_125.tab: 125/200 (62.5%) | Elapsed: 7s | ETA: 4s
+[16:48:01] Processing file resample_126.tab: 126/200 (63.0%) | Elapsed: 7s | ETA: 4s
+[16:48:01] Processing file resample_127.tab: 127/200 (63.5%) | Elapsed: 7s | ETA: 4s
+[16:48:01] Processing file resample_128.tab: 128/200 (64.0%) | Elapsed: 7s | ETA: 4s
+[16:48:01] Processing file resample_129.tab: 129/200 (64.5%) | Elapsed: 7s | ETA: 4s
+[16:48:01] Processing file resample_130.tab: 130/200 (65.0%) | Elapsed: 7s | ETA: 3s
+[16:48:01] Processing file resample_131.tab: 131/200 (65.5%) | Elapsed: 7s | ETA: 3s
+[16:48:01] Processing file resample_132.tab: 132/200 (66.0%) | Elapsed: 7s | ETA: 3s
+[16:48:01] Processing file resample_133.tab: 133/200 (66.5%) | Elapsed: 7s | ETA: 3s
+[16:48:01] Processing file resample_134.tab: 134/200 (67.0%) | Elapsed: 7s | ETA: 3s
+[16:48:01] Processing file resample_135.tab: 135/200 (67.5%) | Elapsed: 7s | ETA: 3s
+[16:48:01] Processing file resample_136.tab: 136/200 (68.0%) | Elapsed: 7s | ETA: 3s
+[16:48:02] Processing file resample_137.tab: 137/200 (68.5%) | Elapsed: 7s | ETA: 3s
+[16:48:02] Processing file resample_138.tab: 138/200 (69.0%) | Elapsed: 7s | ETA: 3s
+[16:48:02] Processing file resample_139.tab: 139/200 (69.5%) | Elapsed: 7s | ETA: 3s
+[16:48:02] Processing file resample_140.tab: 140/200 (70.0%) | Elapsed: 7s | ETA: 3s
+[16:48:02] Processing file resample_141.tab: 141/200 (70.5%) | Elapsed: 7s | ETA: 3s
+[16:48:02] Processing file resample_142.tab: 142/200 (71.0%) | Elapsed: 7s | ETA: 3s
+[16:48:02] Processing file resample_143.tab: 143/200 (71.5%) | Elapsed: 8s | ETA: 3s
+[16:48:02] Processing file resample_144.tab: 144/200 (72.0%) | Elapsed: 8s | ETA: 3s
+[16:48:02] Processing file resample_145.tab: 145/200 (72.5%) | Elapsed: 8s | ETA: 3s
+[16:48:02] Processing file resample_146.tab: 146/200 (73.0%) | Elapsed: 8s | ETA: 3s
+[16:48:02] Processing file resample_147.tab: 147/200 (73.5%) | Elapsed: 8s | ETA: 2s
+[16:48:02] Processing file resample_148.tab: 148/200 (74.0%) | Elapsed: 8s | ETA: 2s
+[16:48:02] Processing file resample_149.tab: 149/200 (74.5%) | Elapsed: 8s | ETA: 2s
+[16:48:02] Processing file resample_150.tab: 150/200 (75.0%) | Elapsed: 8s | ETA: 2s
+[16:48:02] Processing file resample_151.tab: 151/200 (75.5%) | Elapsed: 8s | ETA: 2s
+[16:48:02] Processing file resample_152.tab: 152/200 (76.0%) | Elapsed: 8s | ETA: 2s
+[16:48:03] Processing file resample_153.tab: 153/200 (76.5%) | Elapsed: 8s | ETA: 2s
+[16:48:03] Processing file resample_154.tab: 154/200 (77.0%) | Elapsed: 8s | ETA: 2s
+[16:48:03] Processing file resample_155.tab: 155/200 (77.5%) | Elapsed: 8s | ETA: 2s
+[16:48:03] Processing file resample_156.tab: 156/200 (78.0%) | Elapsed: 8s | ETA: 2s
+[16:48:03] Processing file resample_157.tab: 157/200 (78.5%) | Elapsed: 8s | ETA: 2s
+[16:48:03] Processing file resample_158.tab: 158/200 (79.0%) | Elapsed: 9s | ETA: 2s
+[16:48:03] Processing file resample_159.tab: 159/200 (79.5%) | Elapsed: 9s | ETA: 2s
+[16:48:03] Processing file resample_160.tab: 160/200 (80.0%) | Elapsed: 9s | ETA: 2s
+[16:48:03] Processing file resample_161.tab: 161/200 (80.5%) | Elapsed: 9s | ETA: 2s
+[16:48:03] Processing file resample_162.tab: 162/200 (81.0%) | Elapsed: 9s | ETA: 2s
+[16:48:03] Processing file resample_163.tab: 163/200 (81.5%) | Elapsed: 9s | ETA: 2s
+[16:48:03] Processing file resample_164.tab: 164/200 (82.0%) | Elapsed: 9s | ETA: 2s
+[16:48:03] Processing file resample_165.tab: 165/200 (82.5%) | Elapsed: 9s | ETA: 2s
+[16:48:03] Processing file resample_166.tab: 166/200 (83.0%) | Elapsed: 9s | ETA: 1s
+[16:48:03] Processing file resample_167.tab: 167/200 (83.5%) | Elapsed: 9s | ETA: 1s
+[16:48:03] Processing file resample_168.tab: 168/200 (84.0%) | Elapsed: 9s | ETA: 1s
+[16:48:04] Processing file resample_169.tab: 169/200 (84.5%) | Elapsed: 9s | ETA: 1s
+[16:48:04] Processing file resample_170.tab: 170/200 (85.0%) | Elapsed: 9s | ETA: 1s
+[16:48:04] Processing file resample_171.tab: 171/200 (85.5%) | Elapsed: 9s | ETA: 1s
+[16:48:04] Processing file resample_172.tab: 172/200 (86.0%) | Elapsed: 9s | ETA: 1s
+[16:48:04] Processing file resample_173.tab: 173/200 (86.5%) | Elapsed: 10s | ETA: 1s
+[16:48:04] Processing file resample_174.tab: 174/200 (87.0%) | Elapsed: 10s | ETA: 1s
+[16:48:04] Processing file resample_175.tab: 175/200 (87.5%) | Elapsed: 10s | ETA: 1s
+[16:48:04] Processing file resample_176.tab: 176/200 (88.0%) | Elapsed: 10s | ETA: 1s
+[16:48:04] Processing file resample_177.tab: 177/200 (88.5%) | Elapsed: 10s | ETA: 1s
+[16:48:04] Processing file resample_178.tab: 178/200 (89.0%) | Elapsed: 10s | ETA: 1s
+[16:48:04] Processing file resample_179.tab: 179/200 (89.5%) | Elapsed: 10s | ETA: 1s
+[16:48:04] Processing file resample_180.tab: 180/200 (90.0%) | Elapsed: 10s | ETA: 1s
+[16:48:04] Processing file resample_181.tab: 181/200 (90.5%) | Elapsed: 10s | ETA: 1s
+[16:48:04] Processing file resample_182.tab: 182/200 (91.0%) | Elapsed: 10s | ETA: 1s
+[16:48:04] Processing file resample_183.tab: 183/200 (91.5%) | Elapsed: 10s | ETA: 0s
+[16:48:05] Processing file resample_184.tab: 184/200 (92.0%) | Elapsed: 10s | ETA: 0s
+[16:48:05] Processing file resample_185.tab: 185/200 (92.5%) | Elapsed: 10s | ETA: 0s
+[16:48:05] Processing file resample_186.tab: 186/200 (93.0%) | Elapsed: 10s | ETA: 0s
+[16:48:05] Processing file resample_187.tab: 187/200 (93.5%) | Elapsed: 10s | ETA: 0s
+[16:48:05] Processing file resample_188.tab: 188/200 (94.0%) | Elapsed: 11s | ETA: 0s
+[16:48:05] Processing file resample_189.tab: 189/200 (94.5%) | Elapsed: 11s | ETA: 0s
+[16:48:05] Processing file resample_190.tab: 190/200 (95.0%) | Elapsed: 11s | ETA: 0s
+[16:48:05] Processing file resample_191.tab: 191/200 (95.5%) | Elapsed: 11s | ETA: 0s
+[16:48:05] Processing file resample_192.tab: 192/200 (96.0%) | Elapsed: 11s | ETA: 0s
+[16:48:05] Processing file resample_193.tab: 193/200 (96.5%) | Elapsed: 11s | ETA: 0s
+[16:48:05] Processing file resample_194.tab: 194/200 (97.0%) | Elapsed: 11s | ETA: 0s
+[16:48:05] Processing file resample_195.tab: 195/200 (97.5%) | Elapsed: 11s | ETA: 0s
+[16:48:05] Processing file resample_196.tab: 196/200 (98.0%) | Elapsed: 11s | ETA: 0s
+[16:48:05] Processing file resample_197.tab: 197/200 (98.5%) | Elapsed: 11s | ETA: 0s
+[16:48:05] Processing file resample_198.tab: 198/200 (99.0%) | Elapsed: 11s | ETA: 0s
+[16:48:06] Processing file resample_199.tab: 199/200 (99.5%) | Elapsed: 11s | ETA: 0s
+[16:48:06] Processing file resample_200.tab: 200/200 (100.0%) | Elapsed: 11s | ETA: 0s
+[17:16:54] Processing file resample_001.tab: 1/1000 (0.1%) | Elapsed: 0s | ETA: 3s
+[17:16:54] Processing file resample_002.tab: 2/1000 (0.2%) | Elapsed: 0s | ETA: 1m 51s
+[17:16:54] Processing file resample_003.tab: 3/1000 (0.3%) | Elapsed: 0s | ETA: 2m 9s
+[17:16:54] Processing file resample_004.tab: 4/1000 (0.4%) | Elapsed: 0s | ETA: 2m 23s
+[17:16:55] Processing file resample_005.tab: 5/1000 (0.5%) | Elapsed: 0s | ETA: 2m 28s
+[17:16:55] Processing file resample_006.tab: 6/1000 (0.6%) | Elapsed: 0s | ETA: 2m 34s
+[17:16:55] Processing file resample_007.tab: 7/1000 (0.7%) | Elapsed: 1s | ETA: 2m 35s
+[17:16:55] Processing file resample_008.tab: 8/1000 (0.8%) | Elapsed: 1s | ETA: 2m 38s
+[17:16:55] Processing file resample_009.tab: 9/1000 (0.9%) | Elapsed: 1s | ETA: 2m 38s
+[17:16:55] Processing file resample_010.tab: 10/1000 (1.0%) | Elapsed: 1s | ETA: 2m 40s
+[17:16:56] Processing file resample_011.tab: 11/1000 (1.1%) | Elapsed: 1s | ETA: 2m 40s
+[17:16:56] Processing file resample_012.tab: 12/1000 (1.2%) | Elapsed: 1s | ETA: 2m 41s
+[17:16:56] Processing file resample_013.tab: 13/1000 (1.3%) | Elapsed: 2s | ETA: 2m 43s
+[17:16:56] Processing file resample_014.tab: 14/1000 (1.4%) | Elapsed: 2s | ETA: 2m 43s
+[17:16:56] Processing file resample_015.tab: 15/1000 (1.5%) | Elapsed: 2s | ETA: 2m 43s
+[17:16:56] Processing file resample_016.tab: 16/1000 (1.6%) | Elapsed: 2s | ETA: 2m 43s
+[17:16:57] Processing file resample_017.tab: 17/1000 (1.7%) | Elapsed: 2s | ETA: 2m 44s
+[17:16:57] Processing file resample_018.tab: 18/1000 (1.8%) | Elapsed: 3s | ETA: 2m 43s
+[17:16:57] Processing file resample_019.tab: 19/1000 (1.9%) | Elapsed: 3s | ETA: 2m 44s
+[17:16:57] Processing file resample_020.tab: 20/1000 (2.0%) | Elapsed: 3s | ETA: 2m 44s
+[17:16:57] Processing file resample_021.tab: 21/1000 (2.1%) | Elapsed: 3s | ETA: 2m 48s
+[17:16:58] Processing file resample_022.tab: 22/1000 (2.2%) | Elapsed: 3s | ETA: 2m 49s
+[17:16:58] Processing file resample_023.tab: 23/1000 (2.3%) | Elapsed: 4s | ETA: 2m 50s
+[17:16:58] Processing file resample_024.tab: 24/1000 (2.4%) | Elapsed: 4s | ETA: 2m 51s
+[17:16:58] Processing file resample_025.tab: 25/1000 (2.5%) | Elapsed: 4s | ETA: 2m 51s
+[17:16:58] Processing file resample_026.tab: 26/1000 (2.6%) | Elapsed: 4s | ETA: 2m 51s
+[17:16:59] Processing file resample_027.tab: 27/1000 (2.7%) | Elapsed: 4s | ETA: 2m 50s
+[17:16:59] Processing file resample_028.tab: 28/1000 (2.8%) | Elapsed: 4s | ETA: 2m 50s
+[17:16:59] Processing file resample_029.tab: 29/1000 (2.9%) | Elapsed: 5s | ETA: 2m 50s
+[17:16:59] Processing file resample_030.tab: 30/1000 (3.0%) | Elapsed: 5s | ETA: 2m 50s
+[17:16:59] Processing file resample_031.tab: 31/1000 (3.1%) | Elapsed: 5s | ETA: 2m 50s
+[17:16:59] Processing file resample_032.tab: 32/1000 (3.2%) | Elapsed: 5s | ETA: 2m 50s
+[17:17:00] Processing file resample_033.tab: 33/1000 (3.3%) | Elapsed: 5s | ETA: 2m 49s
+[17:17:00] Processing file resample_034.tab: 34/1000 (3.4%) | Elapsed: 5s | ETA: 2m 49s
+[17:17:00] Processing file resample_035.tab: 35/1000 (3.5%) | Elapsed: 6s | ETA: 2m 50s
+[17:17:00] Processing file resample_036.tab: 36/1000 (3.6%) | Elapsed: 6s | ETA: 2m 49s
+[17:17:00] Processing file resample_037.tab: 37/1000 (3.7%) | Elapsed: 6s | ETA: 2m 49s
+[17:17:01] Processing file resample_038.tab: 38/1000 (3.8%) | Elapsed: 6s | ETA: 2m 49s
+[17:17:01] Processing file resample_039.tab: 39/1000 (3.9%) | Elapsed: 6s | ETA: 2m 49s
+[17:17:01] Processing file resample_040.tab: 40/1000 (4.0%) | Elapsed: 7s | ETA: 2m 49s
+[17:17:01] Processing file resample_041.tab: 41/1000 (4.1%) | Elapsed: 7s | ETA: 2m 49s
+[17:17:01] Processing file resample_042.tab: 42/1000 (4.2%) | Elapsed: 7s | ETA: 2m 48s
+[17:17:01] Processing file resample_043.tab: 43/1000 (4.3%) | Elapsed: 7s | ETA: 2m 49s
+[17:17:02] Processing file resample_044.tab: 44/1000 (4.4%) | Elapsed: 7s | ETA: 2m 49s
+[17:17:02] Processing file resample_045.tab: 45/1000 (4.5%) | Elapsed: 7s | ETA: 2m 49s
+[17:17:02] Processing file resample_046.tab: 46/1000 (4.6%) | Elapsed: 8s | ETA: 2m 49s
+[17:17:02] Processing file resample_047.tab: 47/1000 (4.7%) | Elapsed: 8s | ETA: 2m 49s
+[17:17:02] Processing file resample_048.tab: 48/1000 (4.8%) | Elapsed: 8s | ETA: 2m 49s
+[17:17:03] Processing file resample_049.tab: 49/1000 (4.9%) | Elapsed: 8s | ETA: 2m 48s
+[17:17:03] Processing file resample_050.tab: 50/1000 (5.0%) | Elapsed: 8s | ETA: 2m 48s
+[17:17:03] Processing file resample_051.tab: 51/1000 (5.1%) | Elapsed: 9s | ETA: 2m 48s
+[17:17:03] Processing file resample_052.tab: 52/1000 (5.2%) | Elapsed: 9s | ETA: 2m 48s
+[17:17:03] Processing file resample_053.tab: 53/1000 (5.3%) | Elapsed: 9s | ETA: 2m 47s
+[17:17:03] Processing file resample_054.tab: 54/1000 (5.4%) | Elapsed: 9s | ETA: 2m 47s
+[17:17:04] Processing file resample_055.tab: 55/1000 (5.5%) | Elapsed: 9s | ETA: 2m 47s
+[17:17:04] Processing file resample_056.tab: 56/1000 (5.6%) | Elapsed: 9s | ETA: 2m 47s
+[17:17:04] Processing file resample_057.tab: 57/1000 (5.7%) | Elapsed: 10s | ETA: 2m 48s
+[17:17:04] Processing file resample_058.tab: 58/1000 (5.8%) | Elapsed: 10s | ETA: 2m 48s
+[17:17:04] Processing file resample_059.tab: 59/1000 (5.9%) | Elapsed: 10s | ETA: 2m 48s
+[17:17:05] Processing file resample_060.tab: 60/1000 (6.0%) | Elapsed: 10s | ETA: 2m 48s
+[17:17:05] Processing file resample_061.tab: 61/1000 (6.1%) | Elapsed: 10s | ETA: 2m 48s
+[17:17:05] Processing file resample_062.tab: 62/1000 (6.2%) | Elapsed: 11s | ETA: 2m 48s
+[17:17:05] Processing file resample_063.tab: 63/1000 (6.3%) | Elapsed: 11s | ETA: 2m 48s
+[17:17:05] Processing file resample_064.tab: 64/1000 (6.4%) | Elapsed: 11s | ETA: 2m 47s
+[17:17:05] Processing file resample_065.tab: 65/1000 (6.5%) | Elapsed: 11s | ETA: 2m 47s
+[17:17:06] Processing file resample_066.tab: 66/1000 (6.6%) | Elapsed: 11s | ETA: 2m 47s
+[17:17:06] Processing file resample_067.tab: 67/1000 (6.7%) | Elapsed: 12s | ETA: 2m 47s
+[17:17:06] Processing file resample_068.tab: 68/1000 (6.8%) | Elapsed: 12s | ETA: 2m 47s
+[17:17:06] Processing file resample_069.tab: 69/1000 (6.9%) | Elapsed: 12s | ETA: 2m 47s
+[17:17:06] Processing file resample_070.tab: 70/1000 (7.0%) | Elapsed: 12s | ETA: 2m 47s
+[17:17:07] Processing file resample_071.tab: 71/1000 (7.1%) | Elapsed: 12s | ETA: 2m 46s
+[17:17:07] Processing file resample_072.tab: 72/1000 (7.2%) | Elapsed: 12s | ETA: 2m 46s
+[17:17:07] Processing file resample_073.tab: 73/1000 (7.3%) | Elapsed: 13s | ETA: 2m 46s
+[17:17:07] Processing file resample_074.tab: 74/1000 (7.4%) | Elapsed: 13s | ETA: 2m 46s
+[17:17:07] Processing file resample_075.tab: 75/1000 (7.5%) | Elapsed: 13s | ETA: 2m 45s
+[17:17:07] Processing file resample_076.tab: 76/1000 (7.6%) | Elapsed: 13s | ETA: 2m 45s
+[17:17:08] Processing file resample_077.tab: 77/1000 (7.7%) | Elapsed: 13s | ETA: 2m 45s
+[17:17:08] Processing file resample_078.tab: 78/1000 (7.8%) | Elapsed: 13s | ETA: 2m 45s
+[17:17:08] Processing file resample_079.tab: 79/1000 (7.9%) | Elapsed: 14s | ETA: 2m 45s
+[17:17:08] Processing file resample_080.tab: 80/1000 (8.0%) | Elapsed: 14s | ETA: 2m 44s
+[17:17:08] Processing file resample_081.tab: 81/1000 (8.1%) | Elapsed: 14s | ETA: 2m 44s
+[17:17:09] Processing file resample_082.tab: 82/1000 (8.2%) | Elapsed: 14s | ETA: 2m 44s
+[17:17:09] Processing file resample_083.tab: 83/1000 (8.3%) | Elapsed: 14s | ETA: 2m 44s
+[17:17:09] Processing file resample_084.tab: 84/1000 (8.4%) | Elapsed: 15s | ETA: 2m 44s
+[17:17:09] Processing file resample_085.tab: 85/1000 (8.5%) | Elapsed: 15s | ETA: 2m 44s
+[17:17:09] Processing file resample_086.tab: 86/1000 (8.6%) | Elapsed: 15s | ETA: 2m 43s
+[17:17:09] Processing file resample_087.tab: 87/1000 (8.7%) | Elapsed: 15s | ETA: 2m 43s
+[17:17:10] Processing file resample_088.tab: 88/1000 (8.8%) | Elapsed: 15s | ETA: 2m 43s
+[17:17:10] Processing file resample_089.tab: 89/1000 (8.9%) | Elapsed: 15s | ETA: 2m 43s
+[17:17:10] Processing file resample_090.tab: 90/1000 (9.0%) | Elapsed: 16s | ETA: 2m 43s
+[17:17:10] Processing file resample_091.tab: 91/1000 (9.1%) | Elapsed: 16s | ETA: 2m 42s
+[17:17:10] Processing file resample_092.tab: 92/1000 (9.2%) | Elapsed: 16s | ETA: 2m 42s
+[17:17:10] Processing file resample_093.tab: 93/1000 (9.3%) | Elapsed: 16s | ETA: 2m 42s
+[17:17:11] Processing file resample_094.tab: 94/1000 (9.4%) | Elapsed: 16s | ETA: 2m 42s
+[17:17:11] Processing file resample_095.tab: 95/1000 (9.5%) | Elapsed: 17s | ETA: 2m 42s
+[17:17:11] Processing file resample_096.tab: 96/1000 (9.6%) | Elapsed: 17s | ETA: 2m 43s
+[17:17:11] Processing file resample_097.tab: 97/1000 (9.7%) | Elapsed: 17s | ETA: 2m 44s
+[17:17:12] Processing file resample_098.tab: 98/1000 (9.8%) | Elapsed: 17s | ETA: 2m 44s
+[17:17:12] Processing file resample_099.tab: 99/1000 (9.9%) | Elapsed: 18s | ETA: 2m 44s
+[17:17:12] Processing file resample_100.tab: 100/1000 (10.0%) | Elapsed: 18s | ETA: 2m 44s
+[17:17:12] Processing file resample_101.tab: 101/1000 (10.1%) | Elapsed: 18s | ETA: 2m 43s
+[17:17:12] Processing file resample_102.tab: 102/1000 (10.2%) | Elapsed: 18s | ETA: 2m 43s
+[17:17:13] Processing file resample_103.tab: 103/1000 (10.3%) | Elapsed: 18s | ETA: 2m 43s
+[17:17:13] Processing file resample_104.tab: 104/1000 (10.4%) | Elapsed: 18s | ETA: 2m 43s
+[17:17:13] Processing file resample_105.tab: 105/1000 (10.5%) | Elapsed: 19s | ETA: 2m 43s
+[17:17:13] Processing file resample_106.tab: 106/1000 (10.6%) | Elapsed: 19s | ETA: 2m 42s
+[17:17:13] Processing file resample_107.tab: 107/1000 (10.7%) | Elapsed: 19s | ETA: 2m 42s
+[17:17:13] Processing file resample_108.tab: 108/1000 (10.8%) | Elapsed: 19s | ETA: 2m 42s
+[17:17:14] Processing file resample_109.tab: 109/1000 (10.9%) | Elapsed: 19s | ETA: 2m 42s
+[17:17:14] Processing file resample_110.tab: 110/1000 (11.0%) | Elapsed: 20s | ETA: 2m 42s
+[17:17:14] Processing file resample_111.tab: 111/1000 (11.1%) | Elapsed: 20s | ETA: 2m 41s
+[17:17:14] Processing file resample_112.tab: 112/1000 (11.2%) | Elapsed: 20s | ETA: 2m 41s
+[17:17:14] Processing file resample_113.tab: 113/1000 (11.3%) | Elapsed: 20s | ETA: 2m 41s
+[17:17:15] Processing file resample_114.tab: 114/1000 (11.4%) | Elapsed: 20s | ETA: 2m 41s
+[17:17:15] Processing file resample_115.tab: 115/1000 (11.5%) | Elapsed: 21s | ETA: 2m 41s
+[17:17:15] Processing file resample_116.tab: 116/1000 (11.6%) | Elapsed: 21s | ETA: 2m 41s
+[17:17:15] Processing file resample_117.tab: 117/1000 (11.7%) | Elapsed: 21s | ETA: 2m 41s
+[17:17:15] Processing file resample_118.tab: 118/1000 (11.8%) | Elapsed: 21s | ETA: 2m 41s
+[17:17:16] Processing file resample_119.tab: 119/1000 (11.9%) | Elapsed: 21s | ETA: 2m 41s
+[17:17:16] Processing file resample_120.tab: 120/1000 (12.0%) | Elapsed: 22s | ETA: 2m 41s
+[17:17:16] Processing file resample_121.tab: 121/1000 (12.1%) | Elapsed: 22s | ETA: 2m 41s
+[17:17:16] Processing file resample_122.tab: 122/1000 (12.2%) | Elapsed: 22s | ETA: 2m 41s
+[17:17:16] Processing file resample_123.tab: 123/1000 (12.3%) | Elapsed: 22s | ETA: 2m 41s
+[17:17:17] Processing file resample_124.tab: 124/1000 (12.4%) | Elapsed: 22s | ETA: 2m 40s
+[17:17:17] Processing file resample_125.tab: 125/1000 (12.5%) | Elapsed: 22s | ETA: 2m 40s
+[17:17:17] Processing file resample_126.tab: 126/1000 (12.6%) | Elapsed: 23s | ETA: 2m 40s
+[17:17:17] Processing file resample_127.tab: 127/1000 (12.7%) | Elapsed: 23s | ETA: 2m 40s
+[17:17:17] Processing file resample_128.tab: 128/1000 (12.8%) | Elapsed: 23s | ETA: 2m 39s
+[17:17:17] Processing file resample_129.tab: 129/1000 (12.9%) | Elapsed: 23s | ETA: 2m 39s
+[17:17:18] Processing file resample_130.tab: 130/1000 (13.0%) | Elapsed: 23s | ETA: 2m 39s
+[17:17:18] Processing file resample_131.tab: 131/1000 (13.1%) | Elapsed: 24s | ETA: 2m 39s
+[17:17:18] Processing file resample_132.tab: 132/1000 (13.2%) | Elapsed: 24s | ETA: 2m 39s
+[17:17:18] Processing file resample_133.tab: 133/1000 (13.3%) | Elapsed: 24s | ETA: 2m 39s
+[17:17:18] Processing file resample_134.tab: 134/1000 (13.4%) | Elapsed: 24s | ETA: 2m 38s
+[17:17:19] Processing file resample_135.tab: 135/1000 (13.5%) | Elapsed: 24s | ETA: 2m 38s
+[17:17:19] Processing file resample_136.tab: 136/1000 (13.6%) | Elapsed: 24s | ETA: 2m 38s
+[17:17:19] Processing file resample_137.tab: 137/1000 (13.7%) | Elapsed: 25s | ETA: 2m 38s
+[17:17:19] Processing file resample_138.tab: 138/1000 (13.8%) | Elapsed: 25s | ETA: 2m 38s
+[17:17:19] Processing file resample_139.tab: 139/1000 (13.9%) | Elapsed: 25s | ETA: 2m 38s
+[17:17:20] Processing file resample_140.tab: 140/1000 (14.0%) | Elapsed: 25s | ETA: 2m 37s
+[17:17:20] Processing file resample_141.tab: 141/1000 (14.1%) | Elapsed: 25s | ETA: 2m 38s
+[17:17:20] Processing file resample_142.tab: 142/1000 (14.2%) | Elapsed: 26s | ETA: 2m 38s
+[17:17:20] Processing file resample_143.tab: 143/1000 (14.3%) | Elapsed: 26s | ETA: 2m 37s
+[17:17:20] Processing file resample_144.tab: 144/1000 (14.4%) | Elapsed: 26s | ETA: 2m 37s
+[17:17:21] Processing file resample_145.tab: 145/1000 (14.5%) | Elapsed: 26s | ETA: 2m 37s
+[17:17:21] Processing file resample_146.tab: 146/1000 (14.6%) | Elapsed: 26s | ETA: 2m 37s
+[17:17:21] Processing file resample_147.tab: 147/1000 (14.7%) | Elapsed: 27s | ETA: 2m 37s
+[17:17:21] Processing file resample_148.tab: 148/1000 (14.8%) | Elapsed: 27s | ETA: 2m 37s
+[17:17:21] Processing file resample_149.tab: 149/1000 (14.9%) | Elapsed: 27s | ETA: 2m 37s
+[17:17:22] Processing file resample_150.tab: 150/1000 (15.0%) | Elapsed: 27s | ETA: 2m 37s
+[17:17:22] Processing file resample_151.tab: 151/1000 (15.1%) | Elapsed: 27s | ETA: 2m 36s
+[17:17:22] Processing file resample_152.tab: 152/1000 (15.2%) | Elapsed: 28s | ETA: 2m 36s
+[17:17:22] Processing file resample_153.tab: 153/1000 (15.3%) | Elapsed: 28s | ETA: 2m 36s
+[17:17:22] Processing file resample_154.tab: 154/1000 (15.4%) | Elapsed: 28s | ETA: 2m 36s
+[17:17:23] Processing file resample_155.tab: 155/1000 (15.5%) | Elapsed: 28s | ETA: 2m 36s
+[17:17:23] Processing file resample_156.tab: 156/1000 (15.6%) | Elapsed: 28s | ETA: 2m 36s
+[17:17:23] Processing file resample_157.tab: 157/1000 (15.7%) | Elapsed: 29s | ETA: 2m 36s
+[17:17:23] Processing file resample_158.tab: 158/1000 (15.8%) | Elapsed: 29s | ETA: 2m 36s
+[17:17:23] Processing file resample_159.tab: 159/1000 (15.9%) | Elapsed: 29s | ETA: 2m 36s
+[17:17:24] Processing file resample_160.tab: 160/1000 (16.0%) | Elapsed: 29s | ETA: 2m 35s
+[17:17:24] Processing file resample_161.tab: 161/1000 (16.1%) | Elapsed: 29s | ETA: 2m 35s
+[17:17:24] Processing file resample_162.tab: 162/1000 (16.2%) | Elapsed: 30s | ETA: 2m 35s
+[17:17:24] Processing file resample_163.tab: 163/1000 (16.3%) | Elapsed: 30s | ETA: 2m 35s
+[17:17:24] Processing file resample_164.tab: 164/1000 (16.4%) | Elapsed: 30s | ETA: 2m 35s
+[17:17:24] Processing file resample_165.tab: 165/1000 (16.5%) | Elapsed: 30s | ETA: 2m 34s
+[17:17:25] Processing file resample_166.tab: 166/1000 (16.6%) | Elapsed: 30s | ETA: 2m 34s
+[17:17:25] Processing file resample_167.tab: 167/1000 (16.7%) | Elapsed: 30s | ETA: 2m 34s
+[17:17:25] Processing file resample_168.tab: 168/1000 (16.8%) | Elapsed: 31s | ETA: 2m 34s
+[17:17:25] Processing file resample_169.tab: 169/1000 (16.9%) | Elapsed: 31s | ETA: 2m 34s
+[17:17:25] Processing file resample_170.tab: 170/1000 (17.0%) | Elapsed: 31s | ETA: 2m 34s
+[17:17:26] Processing file resample_171.tab: 171/1000 (17.1%) | Elapsed: 31s | ETA: 2m 33s
+[17:17:26] Processing file resample_172.tab: 172/1000 (17.2%) | Elapsed: 31s | ETA: 2m 33s
+[17:17:26] Processing file resample_173.tab: 173/1000 (17.3%) | Elapsed: 32s | ETA: 2m 33s
+[17:17:26] Processing file resample_174.tab: 174/1000 (17.4%) | Elapsed: 32s | ETA: 2m 33s
+[17:17:26] Processing file resample_175.tab: 175/1000 (17.5%) | Elapsed: 32s | ETA: 2m 33s
+[17:17:26] Processing file resample_176.tab: 176/1000 (17.6%) | Elapsed: 32s | ETA: 2m 32s
+[17:17:27] Processing file resample_177.tab: 177/1000 (17.7%) | Elapsed: 32s | ETA: 2m 32s
+[17:17:27] Processing file resample_178.tab: 178/1000 (17.8%) | Elapsed: 33s | ETA: 2m 32s
+[17:17:27] Processing file resample_179.tab: 179/1000 (17.9%) | Elapsed: 33s | ETA: 2m 32s
+[17:17:27] Processing file resample_180.tab: 180/1000 (18.0%) | Elapsed: 33s | ETA: 2m 32s
+[17:17:27] Processing file resample_181.tab: 181/1000 (18.1%) | Elapsed: 33s | ETA: 2m 31s
+[17:17:28] Processing file resample_182.tab: 182/1000 (18.2%) | Elapsed: 33s | ETA: 2m 31s
+[17:17:28] Processing file resample_183.tab: 183/1000 (18.3%) | Elapsed: 33s | ETA: 2m 31s
+[17:17:28] Processing file resample_184.tab: 184/1000 (18.4%) | Elapsed: 34s | ETA: 2m 31s
+[17:17:28] Processing file resample_185.tab: 185/1000 (18.5%) | Elapsed: 34s | ETA: 2m 31s
+[17:17:28] Processing file resample_186.tab: 186/1000 (18.6%) | Elapsed: 34s | ETA: 2m 30s
+[17:17:29] Processing file resample_187.tab: 187/1000 (18.7%) | Elapsed: 34s | ETA: 2m 30s
+[17:17:29] Processing file resample_188.tab: 188/1000 (18.8%) | Elapsed: 34s | ETA: 2m 30s
+[17:17:29] Processing file resample_189.tab: 189/1000 (18.9%) | Elapsed: 35s | ETA: 2m 30s
+[17:17:29] Processing file resample_190.tab: 190/1000 (19.0%) | Elapsed: 35s | ETA: 2m 30s
+[17:17:29] Processing file resample_191.tab: 191/1000 (19.1%) | Elapsed: 35s | ETA: 2m 30s
+[17:17:30] Processing file resample_192.tab: 192/1000 (19.2%) | Elapsed: 35s | ETA: 2m 30s
+[17:17:30] Processing file resample_193.tab: 193/1000 (19.3%) | Elapsed: 36s | ETA: 2m 30s
+[17:17:30] Processing file resample_194.tab: 194/1000 (19.4%) | Elapsed: 36s | ETA: 2m 30s
+[17:17:30] Processing file resample_195.tab: 195/1000 (19.5%) | Elapsed: 36s | ETA: 2m 30s
+[17:17:30] Processing file resample_196.tab: 196/1000 (19.6%) | Elapsed: 36s | ETA: 2m 30s
+[17:17:31] Processing file resample_197.tab: 197/1000 (19.7%) | Elapsed: 36s | ETA: 2m 30s
+[17:17:31] Processing file resample_198.tab: 198/1000 (19.8%) | Elapsed: 37s | ETA: 2m 29s
+[17:17:31] Processing file resample_199.tab: 199/1000 (19.9%) | Elapsed: 37s | ETA: 2m 29s
+[17:17:31] Processing file resample_200.tab: 200/1000 (20.0%) | Elapsed: 37s | ETA: 2m 29s
+[17:17:31] Processing file resample_201.tab: 201/1000 (20.1%) | Elapsed: 37s | ETA: 2m 29s
+[17:17:32] Processing file resample_202.tab: 202/1000 (20.2%) | Elapsed: 37s | ETA: 2m 29s
+[17:17:32] Processing file resample_203.tab: 203/1000 (20.3%) | Elapsed: 37s | ETA: 2m 28s
+[17:17:32] Processing file resample_204.tab: 204/1000 (20.4%) | Elapsed: 38s | ETA: 2m 28s
+[17:17:32] Processing file resample_205.tab: 205/1000 (20.5%) | Elapsed: 38s | ETA: 2m 28s
+[17:17:32] Processing file resample_206.tab: 206/1000 (20.6%) | Elapsed: 38s | ETA: 2m 28s
+[17:17:33] Processing file resample_207.tab: 207/1000 (20.7%) | Elapsed: 38s | ETA: 2m 28s
+[17:17:33] Processing file resample_208.tab: 208/1000 (20.8%) | Elapsed: 38s | ETA: 2m 28s
+[17:17:33] Processing file resample_209.tab: 209/1000 (20.9%) | Elapsed: 39s | ETA: 2m 27s
+[17:17:33] Processing file resample_210.tab: 210/1000 (21.0%) | Elapsed: 39s | ETA: 2m 27s
+[17:17:33] Processing file resample_211.tab: 211/1000 (21.1%) | Elapsed: 39s | ETA: 2m 27s
+[17:17:33] Processing file resample_212.tab: 212/1000 (21.2%) | Elapsed: 39s | ETA: 2m 27s
+[17:17:34] Processing file resample_213.tab: 213/1000 (21.3%) | Elapsed: 39s | ETA: 2m 27s
+[17:17:34] Processing file resample_214.tab: 214/1000 (21.4%) | Elapsed: 40s | ETA: 2m 26s
+[17:17:34] Processing file resample_215.tab: 215/1000 (21.5%) | Elapsed: 40s | ETA: 2m 26s
+[17:17:34] Processing file resample_216.tab: 216/1000 (21.6%) | Elapsed: 40s | ETA: 2m 26s
+[17:17:35] Processing file resample_217.tab: 217/1000 (21.7%) | Elapsed: 40s | ETA: 2m 27s
+[17:17:35] Processing file resample_218.tab: 218/1000 (21.8%) | Elapsed: 40s | ETA: 2m 26s
+[17:17:35] Processing file resample_219.tab: 219/1000 (21.9%) | Elapsed: 41s | ETA: 2m 26s
+[17:17:35] Processing file resample_220.tab: 220/1000 (22.0%) | Elapsed: 41s | ETA: 2m 26s
+[17:17:36] Processing file resample_221.tab: 221/1000 (22.1%) | Elapsed: 41s | ETA: 2m 26s
+[17:17:36] Processing file resample_222.tab: 222/1000 (22.2%) | Elapsed: 41s | ETA: 2m 26s
+[17:17:36] Processing file resample_223.tab: 223/1000 (22.3%) | Elapsed: 42s | ETA: 2m 26s
+[17:17:36] Processing file resample_224.tab: 224/1000 (22.4%) | Elapsed: 42s | ETA: 2m 26s
+[17:17:36] Processing file resample_225.tab: 225/1000 (22.5%) | Elapsed: 42s | ETA: 2m 26s
+[17:17:36] Processing file resample_226.tab: 226/1000 (22.6%) | Elapsed: 42s | ETA: 2m 26s
+[17:17:37] Processing file resample_227.tab: 227/1000 (22.7%) | Elapsed: 42s | ETA: 2m 25s
+[17:17:37] Processing file resample_228.tab: 228/1000 (22.8%) | Elapsed: 43s | ETA: 2m 25s
+[17:17:37] Processing file resample_229.tab: 229/1000 (22.9%) | Elapsed: 43s | ETA: 2m 25s
+[17:17:37] Processing file resample_230.tab: 230/1000 (23.0%) | Elapsed: 43s | ETA: 2m 25s
+[17:17:37] Processing file resample_231.tab: 231/1000 (23.1%) | Elapsed: 43s | ETA: 2m 25s
+[17:17:38] Processing file resample_232.tab: 232/1000 (23.2%) | Elapsed: 43s | ETA: 2m 24s
+[17:17:38] Processing file resample_233.tab: 233/1000 (23.3%) | Elapsed: 43s | ETA: 2m 24s
+[17:17:38] Processing file resample_234.tab: 234/1000 (23.4%) | Elapsed: 44s | ETA: 2m 24s
+[17:17:38] Processing file resample_235.tab: 235/1000 (23.5%) | Elapsed: 44s | ETA: 2m 24s
+[17:17:38] Processing file resample_236.tab: 236/1000 (23.6%) | Elapsed: 44s | ETA: 2m 24s
+[17:17:39] Processing file resample_237.tab: 237/1000 (23.7%) | Elapsed: 44s | ETA: 2m 23s
+[17:17:39] Processing file resample_238.tab: 238/1000 (23.8%) | Elapsed: 44s | ETA: 2m 23s
+[17:17:39] Processing file resample_239.tab: 239/1000 (23.9%) | Elapsed: 45s | ETA: 2m 23s
+[17:17:39] Processing file resample_240.tab: 240/1000 (24.0%) | Elapsed: 45s | ETA: 2m 23s
+[17:17:39] Processing file resample_241.tab: 241/1000 (24.1%) | Elapsed: 45s | ETA: 2m 23s
+[17:17:39] Processing file resample_242.tab: 242/1000 (24.2%) | Elapsed: 45s | ETA: 2m 22s
+[17:17:40] Processing file resample_243.tab: 243/1000 (24.3%) | Elapsed: 45s | ETA: 2m 22s
+[17:17:40] Processing file resample_244.tab: 244/1000 (24.4%) | Elapsed: 46s | ETA: 2m 22s
+[17:17:40] Processing file resample_245.tab: 245/1000 (24.5%) | Elapsed: 46s | ETA: 2m 22s
+[17:17:40] Processing file resample_246.tab: 246/1000 (24.6%) | Elapsed: 46s | ETA: 2m 22s
+[17:17:40] Processing file resample_247.tab: 247/1000 (24.7%) | Elapsed: 46s | ETA: 2m 22s
+[17:17:41] Processing file resample_248.tab: 248/1000 (24.8%) | Elapsed: 46s | ETA: 2m 21s
+[17:17:41] Processing file resample_249.tab: 249/1000 (24.9%) | Elapsed: 46s | ETA: 2m 21s
+[17:17:41] Processing file resample_250.tab: 250/1000 (25.0%) | Elapsed: 47s | ETA: 2m 21s
+[17:17:41] Processing file resample_251.tab: 251/1000 (25.1%) | Elapsed: 47s | ETA: 2m 21s
+[17:17:41] Processing file resample_252.tab: 252/1000 (25.2%) | Elapsed: 47s | ETA: 2m 21s
+[17:17:42] Processing file resample_253.tab: 253/1000 (25.3%) | Elapsed: 47s | ETA: 2m 20s
+[17:17:42] Processing file resample_254.tab: 254/1000 (25.4%) | Elapsed: 47s | ETA: 2m 20s
+[17:17:42] Processing file resample_255.tab: 255/1000 (25.5%) | Elapsed: 48s | ETA: 2m 20s
+[17:17:42] Processing file resample_256.tab: 256/1000 (25.6%) | Elapsed: 48s | ETA: 2m 20s
+[17:17:42] Processing file resample_257.tab: 257/1000 (25.7%) | Elapsed: 48s | ETA: 2m 20s
+[17:17:42] Processing file resample_258.tab: 258/1000 (25.8%) | Elapsed: 48s | ETA: 2m 19s
+[17:17:43] Processing file resample_259.tab: 259/1000 (25.9%) | Elapsed: 48s | ETA: 2m 19s
+[17:17:43] Processing file resample_260.tab: 260/1000 (26.0%) | Elapsed: 49s | ETA: 2m 19s
+[17:17:43] Processing file resample_261.tab: 261/1000 (26.1%) | Elapsed: 49s | ETA: 2m 19s
+[17:17:43] Processing file resample_262.tab: 262/1000 (26.2%) | Elapsed: 49s | ETA: 2m 19s
+[17:17:43] Processing file resample_263.tab: 263/1000 (26.3%) | Elapsed: 49s | ETA: 2m 19s
+[17:17:44] Processing file resample_264.tab: 264/1000 (26.4%) | Elapsed: 49s | ETA: 2m 18s
+[17:17:44] Processing file resample_265.tab: 265/1000 (26.5%) | Elapsed: 50s | ETA: 2m 18s
+[17:17:44] Processing file resample_266.tab: 266/1000 (26.6%) | Elapsed: 50s | ETA: 2m 18s
+[17:17:44] Processing file resample_267.tab: 267/1000 (26.7%) | Elapsed: 50s | ETA: 2m 18s
+[17:17:44] Processing file resample_268.tab: 268/1000 (26.8%) | Elapsed: 50s | ETA: 2m 18s
+[17:17:45] Processing file resample_269.tab: 269/1000 (26.9%) | Elapsed: 50s | ETA: 2m 17s
+[17:17:45] Processing file resample_270.tab: 270/1000 (27.0%) | Elapsed: 50s | ETA: 2m 17s
+[17:17:45] Processing file resample_271.tab: 271/1000 (27.1%) | Elapsed: 51s | ETA: 2m 17s
+[17:17:45] Processing file resample_272.tab: 272/1000 (27.2%) | Elapsed: 51s | ETA: 2m 17s
+[17:17:45] Processing file resample_273.tab: 273/1000 (27.3%) | Elapsed: 51s | ETA: 2m 17s
+[17:17:46] Processing file resample_274.tab: 274/1000 (27.4%) | Elapsed: 51s | ETA: 2m 17s
+[17:17:46] Processing file resample_275.tab: 275/1000 (27.5%) | Elapsed: 51s | ETA: 2m 16s
+[17:17:46] Processing file resample_276.tab: 276/1000 (27.6%) | Elapsed: 52s | ETA: 2m 16s
+[17:17:46] Processing file resample_277.tab: 277/1000 (27.7%) | Elapsed: 52s | ETA: 2m 16s
+[17:17:46] Processing file resample_278.tab: 278/1000 (27.8%) | Elapsed: 52s | ETA: 2m 16s
+[17:17:46] Processing file resample_279.tab: 279/1000 (27.9%) | Elapsed: 52s | ETA: 2m 16s
+[17:17:47] Processing file resample_280.tab: 280/1000 (28.0%) | Elapsed: 52s | ETA: 2m 15s
+[17:17:47] Processing file resample_281.tab: 281/1000 (28.1%) | Elapsed: 53s | ETA: 2m 15s
+[17:17:47] Processing file resample_282.tab: 282/1000 (28.2%) | Elapsed: 53s | ETA: 2m 15s
+[17:17:47] Processing file resample_283.tab: 283/1000 (28.3%) | Elapsed: 53s | ETA: 2m 15s
+[17:17:47] Processing file resample_284.tab: 284/1000 (28.4%) | Elapsed: 53s | ETA: 2m 15s
+[17:17:48] Processing file resample_285.tab: 285/1000 (28.5%) | Elapsed: 53s | ETA: 2m 14s
+[17:17:48] Processing file resample_286.tab: 286/1000 (28.6%) | Elapsed: 53s | ETA: 2m 14s
+[17:17:48] Processing file resample_287.tab: 287/1000 (28.7%) | Elapsed: 54s | ETA: 2m 14s
+[17:17:48] Processing file resample_288.tab: 288/1000 (28.8%) | Elapsed: 54s | ETA: 2m 14s
+[17:17:48] Processing file resample_289.tab: 289/1000 (28.9%) | Elapsed: 54s | ETA: 2m 14s
+[17:17:49] Processing file resample_290.tab: 290/1000 (29.0%) | Elapsed: 54s | ETA: 2m 13s
+[17:17:49] Processing file resample_291.tab: 291/1000 (29.1%) | Elapsed: 54s | ETA: 2m 13s
+[17:17:49] Processing file resample_292.tab: 292/1000 (29.2%) | Elapsed: 55s | ETA: 2m 13s
+[17:17:49] Processing file resample_293.tab: 293/1000 (29.3%) | Elapsed: 55s | ETA: 2m 13s
+[17:17:49] Processing file resample_294.tab: 294/1000 (29.4%) | Elapsed: 55s | ETA: 2m 13s
+[17:17:50] Processing file resample_295.tab: 295/1000 (29.5%) | Elapsed: 55s | ETA: 2m 13s
+[17:17:50] Processing file resample_296.tab: 296/1000 (29.6%) | Elapsed: 55s | ETA: 2m 12s
+[17:17:50] Processing file resample_297.tab: 297/1000 (29.7%) | Elapsed: 56s | ETA: 2m 12s
+[17:17:50] Processing file resample_298.tab: 298/1000 (29.8%) | Elapsed: 56s | ETA: 2m 12s
+[17:17:50] Processing file resample_299.tab: 299/1000 (29.9%) | Elapsed: 56s | ETA: 2m 12s
+[17:17:51] Processing file resample_300.tab: 300/1000 (30.0%) | Elapsed: 56s | ETA: 2m 12s
+[17:17:51] Processing file resample_301.tab: 301/1000 (30.1%) | Elapsed: 57s | ETA: 2m 12s
+[17:17:51] Processing file resample_302.tab: 302/1000 (30.2%) | Elapsed: 57s | ETA: 2m 12s
+[17:17:51] Processing file resample_303.tab: 303/1000 (30.3%) | Elapsed: 57s | ETA: 2m 12s
+[17:17:51] Processing file resample_304.tab: 304/1000 (30.4%) | Elapsed: 57s | ETA: 2m 11s
+[17:17:52] Processing file resample_305.tab: 305/1000 (30.5%) | Elapsed: 57s | ETA: 2m 11s
+[17:17:52] Processing file resample_306.tab: 306/1000 (30.6%) | Elapsed: 57s | ETA: 2m 11s
+[17:17:52] Processing file resample_307.tab: 307/1000 (30.7%) | Elapsed: 58s | ETA: 2m 11s
+[17:17:52] Processing file resample_308.tab: 308/1000 (30.8%) | Elapsed: 58s | ETA: 2m 11s
+[17:17:52] Processing file resample_309.tab: 309/1000 (30.9%) | Elapsed: 58s | ETA: 2m 10s
+[17:17:53] Processing file resample_310.tab: 310/1000 (31.0%) | Elapsed: 58s | ETA: 2m 10s
+[17:17:53] Processing file resample_311.tab: 311/1000 (31.1%) | Elapsed: 58s | ETA: 2m 10s
+[17:17:53] Processing file resample_312.tab: 312/1000 (31.2%) | Elapsed: 59s | ETA: 2m 10s
+[17:17:53] Processing file resample_313.tab: 313/1000 (31.3%) | Elapsed: 59s | ETA: 2m 10s
+[17:17:53] Processing file resample_314.tab: 314/1000 (31.4%) | Elapsed: 59s | ETA: 2m 10s
+[17:17:54] Processing file resample_315.tab: 315/1000 (31.5%) | Elapsed: 59s | ETA: 2m 9s
+[17:17:54] Processing file resample_316.tab: 316/1000 (31.6%) | Elapsed: 59s | ETA: 2m 9s
+[17:17:54] Processing file resample_317.tab: 317/1000 (31.7%) | Elapsed: 1m 0s | ETA: 2m 9s
+[17:17:54] Processing file resample_318.tab: 318/1000 (31.8%) | Elapsed: 1m 0s | ETA: 2m 9s
+[17:17:54] Processing file resample_319.tab: 319/1000 (31.9%) | Elapsed: 1m 0s | ETA: 2m 9s
+[17:17:54] Processing file resample_320.tab: 320/1000 (32.0%) | Elapsed: 1m 0s | ETA: 2m 8s
+[17:17:55] Processing file resample_321.tab: 321/1000 (32.1%) | Elapsed: 1m 0s | ETA: 2m 8s
+[17:17:55] Processing file resample_322.tab: 322/1000 (32.2%) | Elapsed: 1m 1s | ETA: 2m 8s
+[17:17:55] Processing file resample_323.tab: 323/1000 (32.3%) | Elapsed: 1m 1s | ETA: 2m 8s
+[17:17:55] Processing file resample_324.tab: 324/1000 (32.4%) | Elapsed: 1m 1s | ETA: 2m 8s
+[17:17:55] Processing file resample_325.tab: 325/1000 (32.5%) | Elapsed: 1m 1s | ETA: 2m 7s
+[17:17:56] Processing file resample_326.tab: 326/1000 (32.6%) | Elapsed: 1m 1s | ETA: 2m 7s
+[17:17:56] Processing file resample_327.tab: 327/1000 (32.7%) | Elapsed: 1m 2s | ETA: 2m 7s
+[17:17:56] Processing file resample_328.tab: 328/1000 (32.8%) | Elapsed: 1m 2s | ETA: 2m 7s
+[17:17:56] Processing file resample_329.tab: 329/1000 (32.9%) | Elapsed: 1m 2s | ETA: 2m 7s
+[17:17:56] Processing file resample_330.tab: 330/1000 (33.0%) | Elapsed: 1m 2s | ETA: 2m 7s
+[17:17:57] Processing file resample_331.tab: 331/1000 (33.1%) | Elapsed: 1m 2s | ETA: 2m 6s
+[17:17:57] Processing file resample_332.tab: 332/1000 (33.2%) | Elapsed: 1m 2s | ETA: 2m 6s
+[17:17:57] Processing file resample_333.tab: 333/1000 (33.3%) | Elapsed: 1m 3s | ETA: 2m 6s
+[17:17:57] Processing file resample_334.tab: 334/1000 (33.4%) | Elapsed: 1m 3s | ETA: 2m 6s
+[17:17:57] Processing file resample_335.tab: 335/1000 (33.5%) | Elapsed: 1m 3s | ETA: 2m 6s
+[17:17:58] Processing file resample_336.tab: 336/1000 (33.6%) | Elapsed: 1m 3s | ETA: 2m 5s
+[17:17:58] Processing file resample_337.tab: 337/1000 (33.7%) | Elapsed: 1m 3s | ETA: 2m 5s
+[17:17:58] Processing file resample_338.tab: 338/1000 (33.8%) | Elapsed: 1m 4s | ETA: 2m 5s
+[17:17:58] Processing file resample_339.tab: 339/1000 (33.9%) | Elapsed: 1m 4s | ETA: 2m 5s
+[17:17:58] Processing file resample_340.tab: 340/1000 (34.0%) | Elapsed: 1m 4s | ETA: 2m 5s
+[17:17:58] Processing file resample_341.tab: 341/1000 (34.1%) | Elapsed: 1m 4s | ETA: 2m 4s
+[17:17:59] Processing file resample_342.tab: 342/1000 (34.2%) | Elapsed: 1m 4s | ETA: 2m 4s
+[17:17:59] Processing file resample_343.tab: 343/1000 (34.3%) | Elapsed: 1m 5s | ETA: 2m 4s
+[17:17:59] Processing file resample_344.tab: 344/1000 (34.4%) | Elapsed: 1m 5s | ETA: 2m 4s
+[17:17:59] Processing file resample_345.tab: 345/1000 (34.5%) | Elapsed: 1m 5s | ETA: 2m 4s
+[17:17:59] Processing file resample_346.tab: 346/1000 (34.6%) | Elapsed: 1m 5s | ETA: 2m 4s
+[17:18:00] Processing file resample_347.tab: 347/1000 (34.7%) | Elapsed: 1m 5s | ETA: 2m 3s
+[17:18:00] Processing file resample_348.tab: 348/1000 (34.8%) | Elapsed: 1m 6s | ETA: 2m 3s
+[17:18:00] Processing file resample_349.tab: 349/1000 (34.9%) | Elapsed: 1m 6s | ETA: 2m 3s
+[17:18:00] Processing file resample_350.tab: 350/1000 (35.0%) | Elapsed: 1m 6s | ETA: 2m 3s
+[17:18:00] Processing file resample_351.tab: 351/1000 (35.1%) | Elapsed: 1m 6s | ETA: 2m 3s
+[17:18:01] Processing file resample_352.tab: 352/1000 (35.2%) | Elapsed: 1m 6s | ETA: 2m 2s
+[17:18:01] Processing file resample_353.tab: 353/1000 (35.3%) | Elapsed: 1m 7s | ETA: 2m 2s
+[17:18:01] Processing file resample_354.tab: 354/1000 (35.4%) | Elapsed: 1m 7s | ETA: 2m 2s
+[17:18:01] Processing file resample_355.tab: 355/1000 (35.5%) | Elapsed: 1m 7s | ETA: 2m 2s
+[17:18:01] Processing file resample_356.tab: 356/1000 (35.6%) | Elapsed: 1m 7s | ETA: 2m 2s
+[17:18:02] Processing file resample_357.tab: 357/1000 (35.7%) | Elapsed: 1m 7s | ETA: 2m 2s
+[17:18:02] Processing file resample_358.tab: 358/1000 (35.8%) | Elapsed: 1m 8s | ETA: 2m 2s
+[17:18:02] Processing file resample_359.tab: 359/1000 (35.9%) | Elapsed: 1m 8s | ETA: 2m 2s
+[17:18:02] Processing file resample_360.tab: 360/1000 (36.0%) | Elapsed: 1m 8s | ETA: 2m 1s
+[17:18:03] Processing file resample_361.tab: 361/1000 (36.1%) | Elapsed: 1m 8s | ETA: 2m 1s
+[17:18:03] Processing file resample_362.tab: 362/1000 (36.2%) | Elapsed: 1m 9s | ETA: 2m 1s
+[17:18:03] Processing file resample_363.tab: 363/1000 (36.3%) | Elapsed: 1m 9s | ETA: 2m 1s
+[17:18:03] Processing file resample_364.tab: 364/1000 (36.4%) | Elapsed: 1m 9s | ETA: 2m 1s
+[17:18:03] Processing file resample_365.tab: 365/1000 (36.5%) | Elapsed: 1m 9s | ETA: 2m 1s
+[17:18:04] Processing file resample_366.tab: 366/1000 (36.6%) | Elapsed: 1m 9s | ETA: 2m 0s
+[17:18:04] Processing file resample_367.tab: 367/1000 (36.7%) | Elapsed: 1m 10s | ETA: 2m 0s
+[17:18:04] Processing file resample_368.tab: 368/1000 (36.8%) | Elapsed: 1m 10s | ETA: 2m 0s
+[17:18:04] Processing file resample_369.tab: 369/1000 (36.9%) | Elapsed: 1m 10s | ETA: 2m 0s
+[17:18:04] Processing file resample_370.tab: 370/1000 (37.0%) | Elapsed: 1m 10s | ETA: 2m 0s
+[17:18:05] Processing file resample_371.tab: 371/1000 (37.1%) | Elapsed: 1m 10s | ETA: 2m 0s
+[17:18:05] Processing file resample_372.tab: 372/1000 (37.2%) | Elapsed: 1m 11s | ETA: 1m 59s
+[17:18:05] Processing file resample_373.tab: 373/1000 (37.3%) | Elapsed: 1m 11s | ETA: 1m 59s
+[17:18:05] Processing file resample_374.tab: 374/1000 (37.4%) | Elapsed: 1m 11s | ETA: 1m 59s
+[17:18:05] Processing file resample_375.tab: 375/1000 (37.5%) | Elapsed: 1m 11s | ETA: 1m 59s
+[17:18:06] Processing file resample_376.tab: 376/1000 (37.6%) | Elapsed: 1m 11s | ETA: 1m 59s
+[17:18:06] Processing file resample_377.tab: 377/1000 (37.7%) | Elapsed: 1m 12s | ETA: 1m 59s
+[17:18:06] Processing file resample_378.tab: 378/1000 (37.8%) | Elapsed: 1m 12s | ETA: 1m 58s
+[17:18:06] Processing file resample_379.tab: 379/1000 (37.9%) | Elapsed: 1m 12s | ETA: 1m 58s
+[17:18:06] Processing file resample_380.tab: 380/1000 (38.0%) | Elapsed: 1m 12s | ETA: 1m 58s
+[17:18:07] Processing file resample_381.tab: 381/1000 (38.1%) | Elapsed: 1m 12s | ETA: 1m 58s
+[17:18:07] Processing file resample_382.tab: 382/1000 (38.2%) | Elapsed: 1m 13s | ETA: 1m 58s
+[17:18:07] Processing file resample_383.tab: 383/1000 (38.3%) | Elapsed: 1m 13s | ETA: 1m 57s
+[17:18:07] Processing file resample_384.tab: 384/1000 (38.4%) | Elapsed: 1m 13s | ETA: 1m 57s
+[17:18:07] Processing file resample_385.tab: 385/1000 (38.5%) | Elapsed: 1m 13s | ETA: 1m 57s
+[17:18:08] Processing file resample_386.tab: 386/1000 (38.6%) | Elapsed: 1m 13s | ETA: 1m 57s
+[17:18:08] Processing file resample_387.tab: 387/1000 (38.7%) | Elapsed: 1m 14s | ETA: 1m 57s
+[17:18:08] Processing file resample_388.tab: 388/1000 (38.8%) | Elapsed: 1m 14s | ETA: 1m 57s
+[17:18:08] Processing file resample_389.tab: 389/1000 (38.9%) | Elapsed: 1m 14s | ETA: 1m 56s
+[17:18:08] Processing file resample_390.tab: 390/1000 (39.0%) | Elapsed: 1m 14s | ETA: 1m 56s
+[17:18:09] Processing file resample_391.tab: 391/1000 (39.1%) | Elapsed: 1m 14s | ETA: 1m 56s
+[17:18:09] Processing file resample_392.tab: 392/1000 (39.2%) | Elapsed: 1m 14s | ETA: 1m 56s
+[17:18:09] Processing file resample_393.tab: 393/1000 (39.3%) | Elapsed: 1m 15s | ETA: 1m 56s
+[17:18:09] Processing file resample_394.tab: 394/1000 (39.4%) | Elapsed: 1m 15s | ETA: 1m 55s
+[17:18:09] Processing file resample_395.tab: 395/1000 (39.5%) | Elapsed: 1m 15s | ETA: 1m 55s
+[17:18:10] Processing file resample_396.tab: 396/1000 (39.6%) | Elapsed: 1m 15s | ETA: 1m 55s
+[17:18:10] Processing file resample_397.tab: 397/1000 (39.7%) | Elapsed: 1m 15s | ETA: 1m 55s
+[17:18:10] Processing file resample_398.tab: 398/1000 (39.8%) | Elapsed: 1m 16s | ETA: 1m 55s
+[17:18:10] Processing file resample_399.tab: 399/1000 (39.9%) | Elapsed: 1m 16s | ETA: 1m 54s
+[17:18:10] Processing file resample_400.tab: 400/1000 (40.0%) | Elapsed: 1m 16s | ETA: 1m 54s
+[17:18:10] Processing file resample_401.tab: 401/1000 (40.1%) | Elapsed: 1m 16s | ETA: 1m 54s
+[17:18:11] Processing file resample_402.tab: 402/1000 (40.2%) | Elapsed: 1m 16s | ETA: 1m 54s
+[17:18:11] Processing file resample_403.tab: 403/1000 (40.3%) | Elapsed: 1m 17s | ETA: 1m 54s
+[17:18:11] Processing file resample_404.tab: 404/1000 (40.4%) | Elapsed: 1m 17s | ETA: 1m 53s
+[17:18:11] Processing file resample_405.tab: 405/1000 (40.5%) | Elapsed: 1m 17s | ETA: 1m 53s
+[17:18:11] Processing file resample_406.tab: 406/1000 (40.6%) | Elapsed: 1m 17s | ETA: 1m 53s
+[17:18:12] Processing file resample_407.tab: 407/1000 (40.7%) | Elapsed: 1m 17s | ETA: 1m 53s
+[17:18:12] Processing file resample_408.tab: 408/1000 (40.8%) | Elapsed: 1m 18s | ETA: 1m 53s
+[17:18:12] Processing file resample_409.tab: 409/1000 (40.9%) | Elapsed: 1m 18s | ETA: 1m 53s
+[17:18:12] Processing file resample_410.tab: 410/1000 (41.0%) | Elapsed: 1m 18s | ETA: 1m 52s
+[17:18:12] Processing file resample_411.tab: 411/1000 (41.1%) | Elapsed: 1m 18s | ETA: 1m 52s
+[17:18:13] Processing file resample_412.tab: 412/1000 (41.2%) | Elapsed: 1m 18s | ETA: 1m 52s
+[17:18:13] Processing file resample_413.tab: 413/1000 (41.3%) | Elapsed: 1m 19s | ETA: 1m 52s
+[17:18:13] Processing file resample_414.tab: 414/1000 (41.4%) | Elapsed: 1m 19s | ETA: 1m 52s
+[17:18:13] Processing file resample_415.tab: 415/1000 (41.5%) | Elapsed: 1m 19s | ETA: 1m 51s
+[17:18:13] Processing file resample_416.tab: 416/1000 (41.6%) | Elapsed: 1m 19s | ETA: 1m 51s
+[17:18:14] Processing file resample_417.tab: 417/1000 (41.7%) | Elapsed: 1m 19s | ETA: 1m 51s
+[17:18:14] Processing file resample_418.tab: 418/1000 (41.8%) | Elapsed: 1m 20s | ETA: 1m 51s
+[17:18:14] Processing file resample_419.tab: 419/1000 (41.9%) | Elapsed: 1m 20s | ETA: 1m 51s
+[17:18:14] Processing file resample_420.tab: 420/1000 (42.0%) | Elapsed: 1m 20s | ETA: 1m 51s
+[17:18:14] Processing file resample_421.tab: 421/1000 (42.1%) | Elapsed: 1m 20s | ETA: 1m 50s
+[17:18:15] Processing file resample_422.tab: 422/1000 (42.2%) | Elapsed: 1m 20s | ETA: 1m 50s
+[17:18:15] Processing file resample_423.tab: 423/1000 (42.3%) | Elapsed: 1m 20s | ETA: 1m 50s
+[17:18:15] Processing file resample_424.tab: 424/1000 (42.4%) | Elapsed: 1m 21s | ETA: 1m 50s
+[17:18:15] Processing file resample_425.tab: 425/1000 (42.5%) | Elapsed: 1m 21s | ETA: 1m 50s
+[17:18:15] Processing file resample_426.tab: 426/1000 (42.6%) | Elapsed: 1m 21s | ETA: 1m 49s
+[17:18:16] Processing file resample_427.tab: 427/1000 (42.7%) | Elapsed: 1m 21s | ETA: 1m 49s
+[17:18:16] Processing file resample_428.tab: 428/1000 (42.8%) | Elapsed: 1m 21s | ETA: 1m 49s
+[17:18:16] Processing file resample_429.tab: 429/1000 (42.9%) | Elapsed: 1m 22s | ETA: 1m 49s
+[17:18:16] Processing file resample_430.tab: 430/1000 (43.0%) | Elapsed: 1m 22s | ETA: 1m 49s
+[17:18:16] Processing file resample_431.tab: 431/1000 (43.1%) | Elapsed: 1m 22s | ETA: 1m 48s
+[17:18:17] Processing file resample_432.tab: 432/1000 (43.2%) | Elapsed: 1m 22s | ETA: 1m 48s
+[17:18:17] Processing file resample_433.tab: 433/1000 (43.3%) | Elapsed: 1m 22s | ETA: 1m 48s
+[17:18:17] Processing file resample_434.tab: 434/1000 (43.4%) | Elapsed: 1m 23s | ETA: 1m 48s
+[17:18:17] Processing file resample_435.tab: 435/1000 (43.5%) | Elapsed: 1m 23s | ETA: 1m 48s
+[17:18:17] Processing file resample_436.tab: 436/1000 (43.6%) | Elapsed: 1m 23s | ETA: 1m 48s
+[17:18:18] Processing file resample_437.tab: 437/1000 (43.7%) | Elapsed: 1m 23s | ETA: 1m 47s
+[17:18:18] Processing file resample_438.tab: 438/1000 (43.8%) | Elapsed: 1m 23s | ETA: 1m 47s
+[17:18:18] Processing file resample_439.tab: 439/1000 (43.9%) | Elapsed: 1m 24s | ETA: 1m 47s
+[17:18:18] Processing file resample_440.tab: 440/1000 (44.0%) | Elapsed: 1m 24s | ETA: 1m 47s
+[17:18:18] Processing file resample_441.tab: 441/1000 (44.1%) | Elapsed: 1m 24s | ETA: 1m 47s
+[17:18:19] Processing file resample_442.tab: 442/1000 (44.2%) | Elapsed: 1m 24s | ETA: 1m 46s
+[17:18:19] Processing file resample_443.tab: 443/1000 (44.3%) | Elapsed: 1m 24s | ETA: 1m 46s
+[17:18:19] Processing file resample_444.tab: 444/1000 (44.4%) | Elapsed: 1m 25s | ETA: 1m 46s
+[17:18:19] Processing file resample_445.tab: 445/1000 (44.5%) | Elapsed: 1m 25s | ETA: 1m 46s
+[17:18:19] Processing file resample_446.tab: 446/1000 (44.6%) | Elapsed: 1m 25s | ETA: 1m 46s
+[17:18:19] Processing file resample_447.tab: 447/1000 (44.7%) | Elapsed: 1m 25s | ETA: 1m 45s
+[17:18:20] Processing file resample_448.tab: 448/1000 (44.8%) | Elapsed: 1m 25s | ETA: 1m 45s
+[17:18:20] Processing file resample_449.tab: 449/1000 (44.9%) | Elapsed: 1m 26s | ETA: 1m 45s
+[17:18:20] Processing file resample_450.tab: 450/1000 (45.0%) | Elapsed: 1m 26s | ETA: 1m 45s
+[17:18:20] Processing file resample_451.tab: 451/1000 (45.1%) | Elapsed: 1m 26s | ETA: 1m 45s
+[17:18:20] Processing file resample_452.tab: 452/1000 (45.2%) | Elapsed: 1m 26s | ETA: 1m 45s
+[17:18:21] Processing file resample_453.tab: 453/1000 (45.3%) | Elapsed: 1m 26s | ETA: 1m 44s
+[17:18:21] Processing file resample_454.tab: 454/1000 (45.4%) | Elapsed: 1m 27s | ETA: 1m 44s
+[17:18:21] Processing file resample_455.tab: 455/1000 (45.5%) | Elapsed: 1m 27s | ETA: 1m 44s
+[17:18:21] Processing file resample_456.tab: 456/1000 (45.6%) | Elapsed: 1m 27s | ETA: 1m 44s
+[17:18:21] Processing file resample_457.tab: 457/1000 (45.7%) | Elapsed: 1m 27s | ETA: 1m 44s
+[17:18:22] Processing file resample_458.tab: 458/1000 (45.8%) | Elapsed: 1m 27s | ETA: 1m 43s
+[17:18:22] Processing file resample_459.tab: 459/1000 (45.9%) | Elapsed: 1m 28s | ETA: 1m 43s
+[17:18:22] Processing file resample_460.tab: 460/1000 (46.0%) | Elapsed: 1m 28s | ETA: 1m 43s
+[17:18:22] Processing file resample_461.tab: 461/1000 (46.1%) | Elapsed: 1m 28s | ETA: 1m 43s
+[17:18:22] Processing file resample_462.tab: 462/1000 (46.2%) | Elapsed: 1m 28s | ETA: 1m 43s
+[17:18:23] Processing file resample_463.tab: 463/1000 (46.3%) | Elapsed: 1m 28s | ETA: 1m 43s
+[17:18:23] Processing file resample_464.tab: 464/1000 (46.4%) | Elapsed: 1m 29s | ETA: 1m 42s
+[17:18:23] Processing file resample_465.tab: 465/1000 (46.5%) | Elapsed: 1m 29s | ETA: 1m 42s
+[17:18:23] Processing file resample_466.tab: 466/1000 (46.6%) | Elapsed: 1m 29s | ETA: 1m 42s
+[17:18:23] Processing file resample_467.tab: 467/1000 (46.7%) | Elapsed: 1m 29s | ETA: 1m 42s
+[17:18:24] Processing file resample_468.tab: 468/1000 (46.8%) | Elapsed: 1m 29s | ETA: 1m 42s
+[17:18:24] Processing file resample_469.tab: 469/1000 (46.9%) | Elapsed: 1m 29s | ETA: 1m 41s
+[17:18:24] Processing file resample_470.tab: 470/1000 (47.0%) | Elapsed: 1m 30s | ETA: 1m 41s
+[17:18:24] Processing file resample_471.tab: 471/1000 (47.1%) | Elapsed: 1m 30s | ETA: 1m 41s
+[17:18:24] Processing file resample_472.tab: 472/1000 (47.2%) | Elapsed: 1m 30s | ETA: 1m 41s
+[17:18:25] Processing file resample_473.tab: 473/1000 (47.3%) | Elapsed: 1m 30s | ETA: 1m 41s
+[17:18:25] Processing file resample_474.tab: 474/1000 (47.4%) | Elapsed: 1m 30s | ETA: 1m 40s
+[17:18:25] Processing file resample_475.tab: 475/1000 (47.5%) | Elapsed: 1m 31s | ETA: 1m 40s
+[17:18:25] Processing file resample_476.tab: 476/1000 (47.6%) | Elapsed: 1m 31s | ETA: 1m 40s
+[17:18:25] Processing file resample_477.tab: 477/1000 (47.7%) | Elapsed: 1m 31s | ETA: 1m 40s
+[17:18:26] Processing file resample_478.tab: 478/1000 (47.8%) | Elapsed: 1m 31s | ETA: 1m 40s
+[17:18:26] Processing file resample_479.tab: 479/1000 (47.9%) | Elapsed: 1m 31s | ETA: 1m 39s
+[17:18:26] Processing file resample_480.tab: 480/1000 (48.0%) | Elapsed: 1m 32s | ETA: 1m 39s
+[17:18:26] Processing file resample_481.tab: 481/1000 (48.1%) | Elapsed: 1m 32s | ETA: 1m 39s
+[17:18:26] Processing file resample_482.tab: 482/1000 (48.2%) | Elapsed: 1m 32s | ETA: 1m 39s
+[17:18:26] Processing file resample_483.tab: 483/1000 (48.3%) | Elapsed: 1m 32s | ETA: 1m 39s
+[17:18:27] Processing file resample_484.tab: 484/1000 (48.4%) | Elapsed: 1m 32s | ETA: 1m 38s
+[17:18:27] Processing file resample_485.tab: 485/1000 (48.5%) | Elapsed: 1m 32s | ETA: 1m 38s
+[17:18:27] Processing file resample_486.tab: 486/1000 (48.6%) | Elapsed: 1m 33s | ETA: 1m 38s
+[17:18:27] Processing file resample_487.tab: 487/1000 (48.7%) | Elapsed: 1m 33s | ETA: 1m 38s
+[17:18:27] Processing file resample_488.tab: 488/1000 (48.8%) | Elapsed: 1m 33s | ETA: 1m 38s
+[17:18:28] Processing file resample_489.tab: 489/1000 (48.9%) | Elapsed: 1m 33s | ETA: 1m 37s
+[17:18:28] Processing file resample_490.tab: 490/1000 (49.0%) | Elapsed: 1m 33s | ETA: 1m 37s
+[17:18:28] Processing file resample_491.tab: 491/1000 (49.1%) | Elapsed: 1m 34s | ETA: 1m 37s
+[17:18:28] Processing file resample_492.tab: 492/1000 (49.2%) | Elapsed: 1m 34s | ETA: 1m 37s
+[17:18:28] Processing file resample_493.tab: 493/1000 (49.3%) | Elapsed: 1m 34s | ETA: 1m 37s
+[17:18:29] Processing file resample_494.tab: 494/1000 (49.4%) | Elapsed: 1m 34s | ETA: 1m 36s
+[17:18:29] Processing file resample_495.tab: 495/1000 (49.5%) | Elapsed: 1m 34s | ETA: 1m 36s
+[17:18:29] Processing file resample_496.tab: 496/1000 (49.6%) | Elapsed: 1m 35s | ETA: 1m 36s
+[17:18:29] Processing file resample_497.tab: 497/1000 (49.7%) | Elapsed: 1m 35s | ETA: 1m 36s
+[17:18:30] Processing file resample_498.tab: 498/1000 (49.8%) | Elapsed: 1m 35s | ETA: 1m 36s
+[17:18:30] Processing file resample_499.tab: 499/1000 (49.9%) | Elapsed: 1m 35s | ETA: 1m 36s
+[17:18:30] Processing file resample_500.tab: 500/1000 (50.0%) | Elapsed: 1m 36s | ETA: 1m 36s
+[17:18:30] Processing file resample_501.tab: 501/1000 (50.1%) | Elapsed: 1m 36s | ETA: 1m 35s
+[17:18:30] Processing file resample_502.tab: 502/1000 (50.2%) | Elapsed: 1m 36s | ETA: 1m 35s
+[17:18:31] Processing file resample_503.tab: 503/1000 (50.3%) | Elapsed: 1m 36s | ETA: 1m 35s
+[17:18:31] Processing file resample_504.tab: 504/1000 (50.4%) | Elapsed: 1m 36s | ETA: 1m 35s
+[17:18:31] Processing file resample_505.tab: 505/1000 (50.5%) | Elapsed: 1m 37s | ETA: 1m 35s
+[17:18:31] Processing file resample_506.tab: 506/1000 (50.6%) | Elapsed: 1m 37s | ETA: 1m 34s
+[17:18:31] Processing file resample_507.tab: 507/1000 (50.7%) | Elapsed: 1m 37s | ETA: 1m 34s
+[17:18:31] Processing file resample_508.tab: 508/1000 (50.8%) | Elapsed: 1m 37s | ETA: 1m 34s
+[17:18:32] Processing file resample_509.tab: 509/1000 (50.9%) | Elapsed: 1m 37s | ETA: 1m 34s
+[17:18:32] Processing file resample_510.tab: 510/1000 (51.0%) | Elapsed: 1m 38s | ETA: 1m 34s
+[17:18:32] Processing file resample_511.tab: 511/1000 (51.1%) | Elapsed: 1m 38s | ETA: 1m 33s
+[17:18:32] Processing file resample_512.tab: 512/1000 (51.2%) | Elapsed: 1m 38s | ETA: 1m 33s
+[17:18:32] Processing file resample_513.tab: 513/1000 (51.3%) | Elapsed: 1m 38s | ETA: 1m 33s
+[17:18:33] Processing file resample_514.tab: 514/1000 (51.4%) | Elapsed: 1m 38s | ETA: 1m 33s
+[17:18:33] Processing file resample_515.tab: 515/1000 (51.5%) | Elapsed: 1m 38s | ETA: 1m 33s
+[17:18:33] Processing file resample_516.tab: 516/1000 (51.6%) | Elapsed: 1m 39s | ETA: 1m 33s
+[17:18:33] Processing file resample_517.tab: 517/1000 (51.7%) | Elapsed: 1m 39s | ETA: 1m 32s
+[17:18:33] Processing file resample_518.tab: 518/1000 (51.8%) | Elapsed: 1m 39s | ETA: 1m 32s
+[17:18:34] Processing file resample_519.tab: 519/1000 (51.9%) | Elapsed: 1m 39s | ETA: 1m 32s
+[17:18:34] Processing file resample_520.tab: 520/1000 (52.0%) | Elapsed: 1m 39s | ETA: 1m 32s
+[17:18:34] Processing file resample_521.tab: 521/1000 (52.1%) | Elapsed: 1m 40s | ETA: 1m 32s
+[17:18:34] Processing file resample_522.tab: 522/1000 (52.2%) | Elapsed: 1m 40s | ETA: 1m 31s
+[17:18:34] Processing file resample_523.tab: 523/1000 (52.3%) | Elapsed: 1m 40s | ETA: 1m 31s
+[17:18:35] Processing file resample_524.tab: 524/1000 (52.4%) | Elapsed: 1m 40s | ETA: 1m 31s
+[17:18:35] Processing file resample_525.tab: 525/1000 (52.5%) | Elapsed: 1m 40s | ETA: 1m 31s
+[17:18:35] Processing file resample_526.tab: 526/1000 (52.6%) | Elapsed: 1m 41s | ETA: 1m 31s
+[17:18:35] Processing file resample_527.tab: 527/1000 (52.7%) | Elapsed: 1m 41s | ETA: 1m 30s
+[17:18:35] Processing file resample_528.tab: 528/1000 (52.8%) | Elapsed: 1m 41s | ETA: 1m 30s
+[17:18:36] Processing file resample_529.tab: 529/1000 (52.9%) | Elapsed: 1m 41s | ETA: 1m 30s
+[17:18:36] Processing file resample_530.tab: 530/1000 (53.0%) | Elapsed: 1m 41s | ETA: 1m 30s
+[17:18:36] Processing file resample_531.tab: 531/1000 (53.1%) | Elapsed: 1m 42s | ETA: 1m 30s
+[17:18:36] Processing file resample_532.tab: 532/1000 (53.2%) | Elapsed: 1m 42s | ETA: 1m 30s
+[17:18:36] Processing file resample_533.tab: 533/1000 (53.3%) | Elapsed: 1m 42s | ETA: 1m 29s
+[17:18:37] Processing file resample_534.tab: 534/1000 (53.4%) | Elapsed: 1m 42s | ETA: 1m 29s
+[17:18:37] Processing file resample_535.tab: 535/1000 (53.5%) | Elapsed: 1m 42s | ETA: 1m 29s
+[17:18:37] Processing file resample_536.tab: 536/1000 (53.6%) | Elapsed: 1m 43s | ETA: 1m 29s
+[17:18:37] Processing file resample_537.tab: 537/1000 (53.7%) | Elapsed: 1m 43s | ETA: 1m 29s
+[17:18:37] Processing file resample_538.tab: 538/1000 (53.8%) | Elapsed: 1m 43s | ETA: 1m 28s
+[17:18:38] Processing file resample_539.tab: 539/1000 (53.9%) | Elapsed: 1m 43s | ETA: 1m 28s
+[17:18:38] Processing file resample_540.tab: 540/1000 (54.0%) | Elapsed: 1m 43s | ETA: 1m 28s
+[17:18:38] Processing file resample_541.tab: 541/1000 (54.1%) | Elapsed: 1m 44s | ETA: 1m 28s
+[17:18:38] Processing file resample_542.tab: 542/1000 (54.2%) | Elapsed: 1m 44s | ETA: 1m 28s
+[17:18:38] Processing file resample_543.tab: 543/1000 (54.3%) | Elapsed: 1m 44s | ETA: 1m 27s
+[17:18:38] Processing file resample_544.tab: 544/1000 (54.4%) | Elapsed: 1m 44s | ETA: 1m 27s
+[17:18:39] Processing file resample_545.tab: 545/1000 (54.5%) | Elapsed: 1m 44s | ETA: 1m 27s
+[17:18:39] Processing file resample_546.tab: 546/1000 (54.6%) | Elapsed: 1m 45s | ETA: 1m 27s
+[17:18:39] Processing file resample_547.tab: 547/1000 (54.7%) | Elapsed: 1m 45s | ETA: 1m 27s
+[17:18:39] Processing file resample_548.tab: 548/1000 (54.8%) | Elapsed: 1m 45s | ETA: 1m 26s
+[17:18:40] Processing file resample_549.tab: 549/1000 (54.9%) | Elapsed: 1m 45s | ETA: 1m 26s
+[17:18:40] Processing file resample_550.tab: 550/1000 (55.0%) | Elapsed: 1m 45s | ETA: 1m 26s
+[17:18:40] Processing file resample_551.tab: 551/1000 (55.1%) | Elapsed: 1m 46s | ETA: 1m 26s
+[17:18:40] Processing file resample_552.tab: 552/1000 (55.2%) | Elapsed: 1m 46s | ETA: 1m 26s
+[17:18:40] Processing file resample_553.tab: 553/1000 (55.3%) | Elapsed: 1m 46s | ETA: 1m 26s
+[17:18:40] Processing file resample_554.tab: 554/1000 (55.4%) | Elapsed: 1m 46s | ETA: 1m 25s
+[17:18:41] Processing file resample_555.tab: 555/1000 (55.5%) | Elapsed: 1m 46s | ETA: 1m 25s
+[17:18:41] Processing file resample_556.tab: 556/1000 (55.6%) | Elapsed: 1m 47s | ETA: 1m 25s
+[17:18:41] Processing file resample_557.tab: 557/1000 (55.7%) | Elapsed: 1m 47s | ETA: 1m 25s
+[17:18:41] Processing file resample_558.tab: 558/1000 (55.8%) | Elapsed: 1m 47s | ETA: 1m 25s
+[17:18:41] Processing file resample_559.tab: 559/1000 (55.9%) | Elapsed: 1m 47s | ETA: 1m 24s
+[17:18:42] Processing file resample_560.tab: 560/1000 (56.0%) | Elapsed: 1m 47s | ETA: 1m 24s
+[17:18:42] Processing file resample_561.tab: 561/1000 (56.1%) | Elapsed: 1m 47s | ETA: 1m 24s
+[17:18:42] Processing file resample_562.tab: 562/1000 (56.2%) | Elapsed: 1m 48s | ETA: 1m 24s
+[17:18:42] Processing file resample_563.tab: 563/1000 (56.3%) | Elapsed: 1m 48s | ETA: 1m 24s
+[17:18:42] Processing file resample_564.tab: 564/1000 (56.4%) | Elapsed: 1m 48s | ETA: 1m 23s
+[17:18:43] Processing file resample_565.tab: 565/1000 (56.5%) | Elapsed: 1m 48s | ETA: 1m 23s
+[17:18:43] Processing file resample_566.tab: 566/1000 (56.6%) | Elapsed: 1m 48s | ETA: 1m 23s
+[17:18:43] Processing file resample_567.tab: 567/1000 (56.7%) | Elapsed: 1m 49s | ETA: 1m 23s
+[17:18:43] Processing file resample_568.tab: 568/1000 (56.8%) | Elapsed: 1m 49s | ETA: 1m 23s
+[17:18:43] Processing file resample_569.tab: 569/1000 (56.9%) | Elapsed: 1m 49s | ETA: 1m 22s
+[17:18:44] Processing file resample_570.tab: 570/1000 (57.0%) | Elapsed: 1m 49s | ETA: 1m 22s
+[17:18:44] Processing file resample_571.tab: 571/1000 (57.1%) | Elapsed: 1m 49s | ETA: 1m 22s
+[17:18:44] Processing file resample_572.tab: 572/1000 (57.2%) | Elapsed: 1m 50s | ETA: 1m 22s
+[17:18:44] Processing file resample_573.tab: 573/1000 (57.3%) | Elapsed: 1m 50s | ETA: 1m 22s
+[17:18:44] Processing file resample_574.tab: 574/1000 (57.4%) | Elapsed: 1m 50s | ETA: 1m 22s
+[17:18:45] Processing file resample_575.tab: 575/1000 (57.5%) | Elapsed: 1m 50s | ETA: 1m 21s
+[17:18:45] Processing file resample_576.tab: 576/1000 (57.6%) | Elapsed: 1m 51s | ETA: 1m 21s
+[17:18:45] Processing file resample_577.tab: 577/1000 (57.7%) | Elapsed: 1m 51s | ETA: 1m 21s
+[17:18:45] Processing file resample_578.tab: 578/1000 (57.8%) | Elapsed: 1m 51s | ETA: 1m 21s
+[17:18:46] Processing file resample_579.tab: 579/1000 (57.9%) | Elapsed: 1m 51s | ETA: 1m 21s
+[17:18:46] Processing file resample_580.tab: 580/1000 (58.0%) | Elapsed: 1m 51s | ETA: 1m 21s
+[17:18:46] Processing file resample_581.tab: 581/1000 (58.1%) | Elapsed: 1m 52s | ETA: 1m 20s
+[17:18:46] Processing file resample_582.tab: 582/1000 (58.2%) | Elapsed: 1m 52s | ETA: 1m 20s
+[17:18:47] Processing file resample_583.tab: 583/1000 (58.3%) | Elapsed: 1m 52s | ETA: 1m 20s
+[17:18:47] Processing file resample_584.tab: 584/1000 (58.4%) | Elapsed: 1m 52s | ETA: 1m 20s
+[17:18:47] Processing file resample_585.tab: 585/1000 (58.5%) | Elapsed: 1m 53s | ETA: 1m 20s
+[17:18:47] Processing file resample_586.tab: 586/1000 (58.6%) | Elapsed: 1m 53s | ETA: 1m 20s
+[17:18:48] Processing file resample_587.tab: 587/1000 (58.7%) | Elapsed: 1m 53s | ETA: 1m 20s
+[17:18:48] Processing file resample_588.tab: 588/1000 (58.8%) | Elapsed: 1m 54s | ETA: 1m 19s
+[17:18:48] Processing file resample_589.tab: 589/1000 (58.9%) | Elapsed: 1m 54s | ETA: 1m 19s
+[17:18:48] Processing file resample_590.tab: 590/1000 (59.0%) | Elapsed: 1m 54s | ETA: 1m 19s
+[17:18:49] Processing file resample_591.tab: 591/1000 (59.1%) | Elapsed: 1m 54s | ETA: 1m 19s
+[17:18:49] Processing file resample_592.tab: 592/1000 (59.2%) | Elapsed: 1m 54s | ETA: 1m 19s
+[17:18:49] Processing file resample_593.tab: 593/1000 (59.3%) | Elapsed: 1m 55s | ETA: 1m 19s
+[17:18:49] Processing file resample_594.tab: 594/1000 (59.4%) | Elapsed: 1m 55s | ETA: 1m 18s
+[17:18:50] Processing file resample_595.tab: 595/1000 (59.5%) | Elapsed: 1m 55s | ETA: 1m 18s
+[17:18:50] Processing file resample_596.tab: 596/1000 (59.6%) | Elapsed: 1m 55s | ETA: 1m 18s
+[17:18:50] Processing file resample_597.tab: 597/1000 (59.7%) | Elapsed: 1m 56s | ETA: 1m 18s
+[17:18:50] Processing file resample_598.tab: 598/1000 (59.8%) | Elapsed: 1m 56s | ETA: 1m 18s
+[17:18:50] Processing file resample_599.tab: 599/1000 (59.9%) | Elapsed: 1m 56s | ETA: 1m 18s
+[17:18:51] Processing file resample_600.tab: 600/1000 (60.0%) | Elapsed: 1m 56s | ETA: 1m 17s
+[17:18:51] Processing file resample_601.tab: 601/1000 (60.1%) | Elapsed: 1m 57s | ETA: 1m 17s
+[17:18:51] Processing file resample_602.tab: 602/1000 (60.2%) | Elapsed: 1m 57s | ETA: 1m 17s
+[17:18:51] Processing file resample_603.tab: 603/1000 (60.3%) | Elapsed: 1m 57s | ETA: 1m 17s
+[17:18:52] Processing file resample_604.tab: 604/1000 (60.4%) | Elapsed: 1m 57s | ETA: 1m 17s
+[17:18:52] Processing file resample_605.tab: 605/1000 (60.5%) | Elapsed: 1m 58s | ETA: 1m 17s
+[17:18:52] Processing file resample_606.tab: 606/1000 (60.6%) | Elapsed: 1m 58s | ETA: 1m 16s
+[17:18:52] Processing file resample_607.tab: 607/1000 (60.7%) | Elapsed: 1m 58s | ETA: 1m 16s
+[17:18:53] Processing file resample_608.tab: 608/1000 (60.8%) | Elapsed: 1m 58s | ETA: 1m 16s
+[17:18:53] Processing file resample_609.tab: 609/1000 (60.9%) | Elapsed: 1m 58s | ETA: 1m 16s
+[17:18:53] Processing file resample_610.tab: 610/1000 (61.0%) | Elapsed: 1m 59s | ETA: 1m 16s
+[17:18:53] Processing file resample_611.tab: 611/1000 (61.1%) | Elapsed: 1m 59s | ETA: 1m 16s
+[17:18:53] Processing file resample_612.tab: 612/1000 (61.2%) | Elapsed: 1m 59s | ETA: 1m 15s
+[17:18:54] Processing file resample_613.tab: 613/1000 (61.3%) | Elapsed: 1m 59s | ETA: 1m 15s
+[17:18:54] Processing file resample_614.tab: 614/1000 (61.4%) | Elapsed: 2m 0s | ETA: 1m 15s
+[17:18:54] Processing file resample_615.tab: 615/1000 (61.5%) | Elapsed: 2m 0s | ETA: 1m 15s
+[17:18:55] Processing file resample_616.tab: 616/1000 (61.6%) | Elapsed: 2m 0s | ETA: 1m 15s
+[17:18:55] Processing file resample_617.tab: 617/1000 (61.7%) | Elapsed: 2m 1s | ETA: 1m 15s
+[17:18:55] Processing file resample_618.tab: 618/1000 (61.8%) | Elapsed: 2m 1s | ETA: 1m 14s
+[17:18:55] Processing file resample_619.tab: 619/1000 (61.9%) | Elapsed: 2m 1s | ETA: 1m 14s
+[17:18:56] Processing file resample_620.tab: 620/1000 (62.0%) | Elapsed: 2m 1s | ETA: 1m 14s
+[17:18:56] Processing file resample_621.tab: 621/1000 (62.1%) | Elapsed: 2m 1s | ETA: 1m 14s
+[17:18:56] Processing file resample_622.tab: 622/1000 (62.2%) | Elapsed: 2m 2s | ETA: 1m 14s
+[17:18:56] Processing file resample_623.tab: 623/1000 (62.3%) | Elapsed: 2m 2s | ETA: 1m 14s
+[17:18:56] Processing file resample_624.tab: 624/1000 (62.4%) | Elapsed: 2m 2s | ETA: 1m 13s
+[17:18:57] Processing file resample_625.tab: 625/1000 (62.5%) | Elapsed: 2m 2s | ETA: 1m 13s
+[17:18:57] Processing file resample_626.tab: 626/1000 (62.6%) | Elapsed: 2m 3s | ETA: 1m 13s
+[17:18:57] Processing file resample_627.tab: 627/1000 (62.7%) | Elapsed: 2m 3s | ETA: 1m 13s
+[17:18:57] Processing file resample_628.tab: 628/1000 (62.8%) | Elapsed: 2m 3s | ETA: 1m 13s
+[17:18:58] Processing file resample_629.tab: 629/1000 (62.9%) | Elapsed: 2m 3s | ETA: 1m 12s
+[17:18:58] Processing file resample_630.tab: 630/1000 (63.0%) | Elapsed: 2m 3s | ETA: 1m 12s
+[17:18:58] Processing file resample_631.tab: 631/1000 (63.1%) | Elapsed: 2m 4s | ETA: 1m 12s
+[17:18:58] Processing file resample_632.tab: 632/1000 (63.2%) | Elapsed: 2m 4s | ETA: 1m 12s
+[17:18:58] Processing file resample_633.tab: 633/1000 (63.3%) | Elapsed: 2m 4s | ETA: 1m 12s
+[17:18:59] Processing file resample_634.tab: 634/1000 (63.4%) | Elapsed: 2m 4s | ETA: 1m 12s
+[17:18:59] Processing file resample_635.tab: 635/1000 (63.5%) | Elapsed: 2m 5s | ETA: 1m 11s
+[17:18:59] Processing file resample_636.tab: 636/1000 (63.6%) | Elapsed: 2m 5s | ETA: 1m 11s
+[17:18:59] Processing file resample_637.tab: 637/1000 (63.7%) | Elapsed: 2m 5s | ETA: 1m 11s
+[17:19:00] Processing file resample_638.tab: 638/1000 (63.8%) | Elapsed: 2m 5s | ETA: 1m 11s
+[17:19:00] Processing file resample_639.tab: 639/1000 (63.9%) | Elapsed: 2m 5s | ETA: 1m 11s
+[17:19:00] Processing file resample_640.tab: 640/1000 (64.0%) | Elapsed: 2m 6s | ETA: 1m 10s
+[17:19:00] Processing file resample_641.tab: 641/1000 (64.1%) | Elapsed: 2m 6s | ETA: 1m 10s
+[17:19:00] Processing file resample_642.tab: 642/1000 (64.2%) | Elapsed: 2m 6s | ETA: 1m 10s
+[17:19:01] Processing file resample_643.tab: 643/1000 (64.3%) | Elapsed: 2m 6s | ETA: 1m 10s
+[17:19:01] Processing file resample_644.tab: 644/1000 (64.4%) | Elapsed: 2m 7s | ETA: 1m 10s
+[17:19:01] Processing file resample_645.tab: 645/1000 (64.5%) | Elapsed: 2m 7s | ETA: 1m 10s
+[17:19:01] Processing file resample_646.tab: 646/1000 (64.6%) | Elapsed: 2m 7s | ETA: 1m 9s
+[17:19:02] Processing file resample_647.tab: 647/1000 (64.7%) | Elapsed: 2m 7s | ETA: 1m 9s
+[17:19:02] Processing file resample_648.tab: 648/1000 (64.8%) | Elapsed: 2m 8s | ETA: 1m 9s
+[17:19:02] Processing file resample_649.tab: 649/1000 (64.9%) | Elapsed: 2m 8s | ETA: 1m 9s
+[17:19:02] Processing file resample_650.tab: 650/1000 (65.0%) | Elapsed: 2m 8s | ETA: 1m 9s
+[17:19:03] Processing file resample_651.tab: 651/1000 (65.1%) | Elapsed: 2m 8s | ETA: 1m 8s
+[17:19:03] Processing file resample_652.tab: 652/1000 (65.2%) | Elapsed: 2m 9s | ETA: 1m 8s
+[17:19:03] Processing file resample_653.tab: 653/1000 (65.3%) | Elapsed: 2m 9s | ETA: 1m 8s
+[17:19:03] Processing file resample_654.tab: 654/1000 (65.4%) | Elapsed: 2m 9s | ETA: 1m 8s
+[17:19:04] Processing file resample_655.tab: 655/1000 (65.5%) | Elapsed: 2m 9s | ETA: 1m 8s
+[17:19:04] Processing file resample_656.tab: 656/1000 (65.6%) | Elapsed: 2m 10s | ETA: 1m 8s
+[17:19:04] Processing file resample_657.tab: 657/1000 (65.7%) | Elapsed: 2m 10s | ETA: 1m 8s
+[17:19:04] Processing file resample_658.tab: 658/1000 (65.8%) | Elapsed: 2m 10s | ETA: 1m 7s
+[17:19:05] Processing file resample_659.tab: 659/1000 (65.9%) | Elapsed: 2m 10s | ETA: 1m 7s
+[17:19:05] Processing file resample_660.tab: 660/1000 (66.0%) | Elapsed: 2m 11s | ETA: 1m 7s
+[17:19:05] Processing file resample_661.tab: 661/1000 (66.1%) | Elapsed: 2m 11s | ETA: 1m 7s
+[17:19:05] Processing file resample_662.tab: 662/1000 (66.2%) | Elapsed: 2m 11s | ETA: 1m 7s
+[17:19:06] Processing file resample_663.tab: 663/1000 (66.3%) | Elapsed: 2m 11s | ETA: 1m 7s
+[17:19:06] Processing file resample_664.tab: 664/1000 (66.4%) | Elapsed: 2m 12s | ETA: 1m 6s
+[17:19:06] Processing file resample_665.tab: 665/1000 (66.5%) | Elapsed: 2m 12s | ETA: 1m 6s
+[17:19:06] Processing file resample_666.tab: 666/1000 (66.6%) | Elapsed: 2m 12s | ETA: 1m 6s
+[17:19:07] Processing file resample_667.tab: 667/1000 (66.7%) | Elapsed: 2m 12s | ETA: 1m 6s
+[17:19:07] Processing file resample_668.tab: 668/1000 (66.8%) | Elapsed: 2m 12s | ETA: 1m 6s
+[17:19:07] Processing file resample_669.tab: 669/1000 (66.9%) | Elapsed: 2m 13s | ETA: 1m 5s
+[17:19:07] Processing file resample_670.tab: 670/1000 (67.0%) | Elapsed: 2m 13s | ETA: 1m 5s
+[17:19:07] Processing file resample_671.tab: 671/1000 (67.1%) | Elapsed: 2m 13s | ETA: 1m 5s
+[17:19:08] Processing file resample_672.tab: 672/1000 (67.2%) | Elapsed: 2m 13s | ETA: 1m 5s
+[17:19:08] Processing file resample_673.tab: 673/1000 (67.3%) | Elapsed: 2m 14s | ETA: 1m 5s
+[17:19:08] Processing file resample_674.tab: 674/1000 (67.4%) | Elapsed: 2m 14s | ETA: 1m 4s
+[17:19:08] Processing file resample_675.tab: 675/1000 (67.5%) | Elapsed: 2m 14s | ETA: 1m 4s
+[17:19:09] Processing file resample_676.tab: 676/1000 (67.6%) | Elapsed: 2m 14s | ETA: 1m 4s
+[17:19:09] Processing file resample_677.tab: 677/1000 (67.7%) | Elapsed: 2m 14s | ETA: 1m 4s
+[17:19:09] Processing file resample_678.tab: 678/1000 (67.8%) | Elapsed: 2m 15s | ETA: 1m 4s
+[17:19:09] Processing file resample_679.tab: 679/1000 (67.9%) | Elapsed: 2m 15s | ETA: 1m 4s
+[17:19:09] Processing file resample_680.tab: 680/1000 (68.0%) | Elapsed: 2m 15s | ETA: 1m 3s
+[17:19:10] Processing file resample_681.tab: 681/1000 (68.1%) | Elapsed: 2m 15s | ETA: 1m 3s
+[17:19:10] Processing file resample_682.tab: 682/1000 (68.2%) | Elapsed: 2m 16s | ETA: 1m 3s
+[17:19:10] Processing file resample_683.tab: 683/1000 (68.3%) | Elapsed: 2m 16s | ETA: 1m 3s
+[17:19:10] Processing file resample_684.tab: 684/1000 (68.4%) | Elapsed: 2m 16s | ETA: 1m 3s
+[17:19:11] Processing file resample_685.tab: 685/1000 (68.5%) | Elapsed: 2m 16s | ETA: 1m 2s
+[17:19:11] Processing file resample_686.tab: 686/1000 (68.6%) | Elapsed: 2m 16s | ETA: 1m 2s
+[17:19:11] Processing file resample_687.tab: 687/1000 (68.7%) | Elapsed: 2m 17s | ETA: 1m 2s
+[17:19:11] Processing file resample_688.tab: 688/1000 (68.8%) | Elapsed: 2m 17s | ETA: 1m 2s
+[17:19:11] Processing file resample_689.tab: 689/1000 (68.9%) | Elapsed: 2m 17s | ETA: 1m 2s
+[17:19:12] Processing file resample_690.tab: 690/1000 (69.0%) | Elapsed: 2m 17s | ETA: 1m 1s
+[17:19:12] Processing file resample_691.tab: 691/1000 (69.1%) | Elapsed: 2m 18s | ETA: 1m 1s
+[17:19:12] Processing file resample_692.tab: 692/1000 (69.2%) | Elapsed: 2m 18s | ETA: 1m 1s
+[17:19:12] Processing file resample_693.tab: 693/1000 (69.3%) | Elapsed: 2m 18s | ETA: 1m 1s
+[17:19:13] Processing file resample_694.tab: 694/1000 (69.4%) | Elapsed: 2m 18s | ETA: 1m 1s
+[17:19:13] Processing file resample_695.tab: 695/1000 (69.5%) | Elapsed: 2m 18s | ETA: 1m 0s
+[17:19:13] Processing file resample_696.tab: 696/1000 (69.6%) | Elapsed: 2m 19s | ETA: 1m 0s
+[17:19:13] Processing file resample_697.tab: 697/1000 (69.7%) | Elapsed: 2m 19s | ETA: 1m 0s
+[17:19:13] Processing file resample_698.tab: 698/1000 (69.8%) | Elapsed: 2m 19s | ETA: 1m 0s
+[17:19:14] Processing file resample_699.tab: 699/1000 (69.9%) | Elapsed: 2m 19s | ETA: 1m 0s
+[17:19:14] Processing file resample_700.tab: 700/1000 (70.0%) | Elapsed: 2m 20s | ETA: 1m 0s
+[17:19:14] Processing file resample_701.tab: 701/1000 (70.1%) | Elapsed: 2m 20s | ETA: 59s
+[17:19:14] Processing file resample_702.tab: 702/1000 (70.2%) | Elapsed: 2m 20s | ETA: 59s
+[17:19:15] Processing file resample_703.tab: 703/1000 (70.3%) | Elapsed: 2m 20s | ETA: 59s
+[17:19:15] Processing file resample_704.tab: 704/1000 (70.4%) | Elapsed: 2m 21s | ETA: 59s
+[17:19:15] Processing file resample_705.tab: 705/1000 (70.5%) | Elapsed: 2m 21s | ETA: 59s
+[17:19:15] Processing file resample_706.tab: 706/1000 (70.6%) | Elapsed: 2m 21s | ETA: 58s
+[17:19:16] Processing file resample_707.tab: 707/1000 (70.7%) | Elapsed: 2m 21s | ETA: 58s
+[17:19:16] Processing file resample_708.tab: 708/1000 (70.8%) | Elapsed: 2m 21s | ETA: 58s
+[17:19:16] Processing file resample_709.tab: 709/1000 (70.9%) | Elapsed: 2m 22s | ETA: 58s
+[17:19:16] Processing file resample_710.tab: 710/1000 (71.0%) | Elapsed: 2m 22s | ETA: 58s
+[17:19:16] Processing file resample_711.tab: 711/1000 (71.1%) | Elapsed: 2m 22s | ETA: 57s
+[17:19:17] Processing file resample_712.tab: 712/1000 (71.2%) | Elapsed: 2m 22s | ETA: 57s
+[17:19:17] Processing file resample_713.tab: 713/1000 (71.3%) | Elapsed: 2m 23s | ETA: 57s
+[17:19:17] Processing file resample_714.tab: 714/1000 (71.4%) | Elapsed: 2m 23s | ETA: 57s
+[17:19:17] Processing file resample_715.tab: 715/1000 (71.5%) | Elapsed: 2m 23s | ETA: 57s
+[17:19:18] Processing file resample_716.tab: 716/1000 (71.6%) | Elapsed: 2m 23s | ETA: 57s
+[17:19:18] Processing file resample_717.tab: 717/1000 (71.7%) | Elapsed: 2m 23s | ETA: 56s
+[17:19:18] Processing file resample_718.tab: 718/1000 (71.8%) | Elapsed: 2m 24s | ETA: 56s
+[17:19:18] Processing file resample_719.tab: 719/1000 (71.9%) | Elapsed: 2m 24s | ETA: 56s
+[17:19:18] Processing file resample_720.tab: 720/1000 (72.0%) | Elapsed: 2m 24s | ETA: 56s
+[17:19:19] Processing file resample_721.tab: 721/1000 (72.1%) | Elapsed: 2m 24s | ETA: 56s
+[17:19:19] Processing file resample_722.tab: 722/1000 (72.2%) | Elapsed: 2m 25s | ETA: 55s
+[17:19:19] Processing file resample_723.tab: 723/1000 (72.3%) | Elapsed: 2m 25s | ETA: 55s
+[17:19:19] Processing file resample_724.tab: 724/1000 (72.4%) | Elapsed: 2m 25s | ETA: 55s
+[17:19:20] Processing file resample_725.tab: 725/1000 (72.5%) | Elapsed: 2m 25s | ETA: 55s
+[17:19:20] Processing file resample_726.tab: 726/1000 (72.6%) | Elapsed: 2m 25s | ETA: 55s
+[17:19:20] Processing file resample_727.tab: 727/1000 (72.7%) | Elapsed: 2m 26s | ETA: 54s
+[17:19:20] Processing file resample_728.tab: 728/1000 (72.8%) | Elapsed: 2m 26s | ETA: 54s
+[17:19:20] Processing file resample_729.tab: 729/1000 (72.9%) | Elapsed: 2m 26s | ETA: 54s
+[17:19:21] Processing file resample_730.tab: 730/1000 (73.0%) | Elapsed: 2m 26s | ETA: 54s
+[17:19:21] Processing file resample_731.tab: 731/1000 (73.1%) | Elapsed: 2m 27s | ETA: 54s
+[17:19:21] Processing file resample_732.tab: 732/1000 (73.2%) | Elapsed: 2m 27s | ETA: 53s
+[17:19:21] Processing file resample_733.tab: 733/1000 (73.3%) | Elapsed: 2m 27s | ETA: 53s
+[17:19:22] Processing file resample_734.tab: 734/1000 (73.4%) | Elapsed: 2m 27s | ETA: 53s
+[17:19:22] Processing file resample_735.tab: 735/1000 (73.5%) | Elapsed: 2m 27s | ETA: 53s
+[17:19:22] Processing file resample_736.tab: 736/1000 (73.6%) | Elapsed: 2m 28s | ETA: 53s
+[17:19:22] Processing file resample_737.tab: 737/1000 (73.7%) | Elapsed: 2m 28s | ETA: 52s
+[17:19:22] Processing file resample_738.tab: 738/1000 (73.8%) | Elapsed: 2m 28s | ETA: 52s
+[17:19:23] Processing file resample_739.tab: 739/1000 (73.9%) | Elapsed: 2m 28s | ETA: 52s
+[17:19:23] Processing file resample_740.tab: 740/1000 (74.0%) | Elapsed: 2m 29s | ETA: 52s
+[17:19:23] Processing file resample_741.tab: 741/1000 (74.1%) | Elapsed: 2m 29s | ETA: 52s
+[17:19:23] Processing file resample_742.tab: 742/1000 (74.2%) | Elapsed: 2m 29s | ETA: 51s
+[17:19:24] Processing file resample_743.tab: 743/1000 (74.3%) | Elapsed: 2m 29s | ETA: 51s
+[17:19:24] Processing file resample_744.tab: 744/1000 (74.4%) | Elapsed: 2m 29s | ETA: 51s
+[17:19:24] Processing file resample_745.tab: 745/1000 (74.5%) | Elapsed: 2m 30s | ETA: 51s
+[17:19:24] Processing file resample_746.tab: 746/1000 (74.6%) | Elapsed: 2m 30s | ETA: 51s
+[17:19:24] Processing file resample_747.tab: 747/1000 (74.7%) | Elapsed: 2m 30s | ETA: 51s
+[17:19:25] Processing file resample_748.tab: 748/1000 (74.8%) | Elapsed: 2m 30s | ETA: 50s
+[17:19:25] Processing file resample_749.tab: 749/1000 (74.9%) | Elapsed: 2m 31s | ETA: 50s
+[17:19:25] Processing file resample_750.tab: 750/1000 (75.0%) | Elapsed: 2m 31s | ETA: 50s
+[17:19:25] Processing file resample_751.tab: 751/1000 (75.1%) | Elapsed: 2m 31s | ETA: 50s
+[17:19:26] Processing file resample_752.tab: 752/1000 (75.2%) | Elapsed: 2m 31s | ETA: 50s
+[17:19:26] Processing file resample_753.tab: 753/1000 (75.3%) | Elapsed: 2m 31s | ETA: 49s
+[17:19:26] Processing file resample_754.tab: 754/1000 (75.4%) | Elapsed: 2m 32s | ETA: 49s
+[17:19:26] Processing file resample_755.tab: 755/1000 (75.5%) | Elapsed: 2m 32s | ETA: 49s
+[17:19:26] Processing file resample_756.tab: 756/1000 (75.6%) | Elapsed: 2m 32s | ETA: 49s
+[17:19:27] Processing file resample_757.tab: 757/1000 (75.7%) | Elapsed: 2m 32s | ETA: 49s
+[17:19:27] Processing file resample_758.tab: 758/1000 (75.8%) | Elapsed: 2m 33s | ETA: 48s
+[17:19:27] Processing file resample_759.tab: 759/1000 (75.9%) | Elapsed: 2m 33s | ETA: 48s
+[17:19:27] Processing file resample_760.tab: 760/1000 (76.0%) | Elapsed: 2m 33s | ETA: 48s
+[17:19:28] Processing file resample_761.tab: 761/1000 (76.1%) | Elapsed: 2m 33s | ETA: 48s
+[17:19:28] Processing file resample_762.tab: 762/1000 (76.2%) | Elapsed: 2m 33s | ETA: 48s
+[17:19:28] Processing file resample_763.tab: 763/1000 (76.3%) | Elapsed: 2m 34s | ETA: 47s
+[17:19:28] Processing file resample_764.tab: 764/1000 (76.4%) | Elapsed: 2m 34s | ETA: 47s
+[17:19:28] Processing file resample_765.tab: 765/1000 (76.5%) | Elapsed: 2m 34s | ETA: 47s
+[17:19:29] Processing file resample_766.tab: 766/1000 (76.6%) | Elapsed: 2m 34s | ETA: 47s
+[17:19:29] Processing file resample_767.tab: 767/1000 (76.7%) | Elapsed: 2m 35s | ETA: 47s
+[17:19:29] Processing file resample_768.tab: 768/1000 (76.8%) | Elapsed: 2m 35s | ETA: 46s
+[17:19:29] Processing file resample_769.tab: 769/1000 (76.9%) | Elapsed: 2m 35s | ETA: 46s
+[17:19:30] Processing file resample_770.tab: 770/1000 (77.0%) | Elapsed: 2m 35s | ETA: 46s
+[17:19:30] Processing file resample_771.tab: 771/1000 (77.1%) | Elapsed: 2m 36s | ETA: 46s
+[17:19:30] Processing file resample_772.tab: 772/1000 (77.2%) | Elapsed: 2m 36s | ETA: 46s
+[17:19:30] Processing file resample_773.tab: 773/1000 (77.3%) | Elapsed: 2m 36s | ETA: 45s
+[17:19:30] Processing file resample_774.tab: 774/1000 (77.4%) | Elapsed: 2m 36s | ETA: 45s
+[17:19:31] Processing file resample_775.tab: 775/1000 (77.5%) | Elapsed: 2m 36s | ETA: 45s
+[17:19:31] Processing file resample_776.tab: 776/1000 (77.6%) | Elapsed: 2m 37s | ETA: 45s
+[17:19:31] Processing file resample_777.tab: 777/1000 (77.7%) | Elapsed: 2m 37s | ETA: 45s
+[17:19:31] Processing file resample_778.tab: 778/1000 (77.8%) | Elapsed: 2m 37s | ETA: 44s
+[17:19:32] Processing file resample_779.tab: 779/1000 (77.9%) | Elapsed: 2m 37s | ETA: 44s
+[17:19:32] Processing file resample_780.tab: 780/1000 (78.0%) | Elapsed: 2m 38s | ETA: 44s
+[17:19:32] Processing file resample_781.tab: 781/1000 (78.1%) | Elapsed: 2m 38s | ETA: 44s
+[17:19:32] Processing file resample_782.tab: 782/1000 (78.2%) | Elapsed: 2m 38s | ETA: 44s
+[17:19:33] Processing file resample_783.tab: 783/1000 (78.3%) | Elapsed: 2m 38s | ETA: 43s
+[17:19:33] Processing file resample_784.tab: 784/1000 (78.4%) | Elapsed: 2m 38s | ETA: 43s
+[17:19:33] Processing file resample_785.tab: 785/1000 (78.5%) | Elapsed: 2m 39s | ETA: 43s
+[17:19:33] Processing file resample_786.tab: 786/1000 (78.6%) | Elapsed: 2m 39s | ETA: 43s
+[17:19:34] Processing file resample_787.tab: 787/1000 (78.7%) | Elapsed: 2m 39s | ETA: 43s
+[17:19:34] Processing file resample_788.tab: 788/1000 (78.8%) | Elapsed: 2m 39s | ETA: 43s
+[17:19:34] Processing file resample_789.tab: 789/1000 (78.9%) | Elapsed: 2m 40s | ETA: 42s
+[17:19:34] Processing file resample_790.tab: 790/1000 (79.0%) | Elapsed: 2m 40s | ETA: 42s
+[17:19:35] Processing file resample_791.tab: 791/1000 (79.1%) | Elapsed: 2m 40s | ETA: 42s
+[17:19:35] Processing file resample_792.tab: 792/1000 (79.2%) | Elapsed: 2m 41s | ETA: 42s
+[17:19:35] Processing file resample_793.tab: 793/1000 (79.3%) | Elapsed: 2m 41s | ETA: 42s
+[17:19:35] Processing file resample_794.tab: 794/1000 (79.4%) | Elapsed: 2m 41s | ETA: 41s
+[17:19:35] Processing file resample_795.tab: 795/1000 (79.5%) | Elapsed: 2m 41s | ETA: 41s
+[17:19:36] Processing file resample_796.tab: 796/1000 (79.6%) | Elapsed: 2m 41s | ETA: 41s
+[17:19:36] Processing file resample_797.tab: 797/1000 (79.7%) | Elapsed: 2m 41s | ETA: 41s
+[17:19:36] Processing file resample_798.tab: 798/1000 (79.8%) | Elapsed: 2m 42s | ETA: 41s
+[17:19:36] Processing file resample_799.tab: 799/1000 (79.9%) | Elapsed: 2m 42s | ETA: 40s
+[17:19:36] Processing file resample_800.tab: 800/1000 (80.0%) | Elapsed: 2m 42s | ETA: 40s
+[17:19:37] Processing file resample_801.tab: 801/1000 (80.1%) | Elapsed: 2m 42s | ETA: 40s
+[17:19:37] Processing file resample_802.tab: 802/1000 (80.2%) | Elapsed: 2m 42s | ETA: 40s
+[17:19:37] Processing file resample_803.tab: 803/1000 (80.3%) | Elapsed: 2m 43s | ETA: 40s
+[17:19:37] Processing file resample_804.tab: 804/1000 (80.4%) | Elapsed: 2m 43s | ETA: 39s
+[17:19:37] Processing file resample_805.tab: 805/1000 (80.5%) | Elapsed: 2m 43s | ETA: 39s
+[17:19:38] Processing file resample_806.tab: 806/1000 (80.6%) | Elapsed: 2m 43s | ETA: 39s
+[17:19:38] Processing file resample_807.tab: 807/1000 (80.7%) | Elapsed: 2m 43s | ETA: 39s
+[17:19:38] Processing file resample_808.tab: 808/1000 (80.8%) | Elapsed: 2m 44s | ETA: 38s
+[17:19:38] Processing file resample_809.tab: 809/1000 (80.9%) | Elapsed: 2m 44s | ETA: 38s
+[17:19:38] Processing file resample_810.tab: 810/1000 (81.0%) | Elapsed: 2m 44s | ETA: 38s
+[17:19:38] Processing file resample_811.tab: 811/1000 (81.1%) | Elapsed: 2m 44s | ETA: 38s
+[17:19:39] Processing file resample_812.tab: 812/1000 (81.2%) | Elapsed: 2m 44s | ETA: 38s
+[17:19:39] Processing file resample_813.tab: 813/1000 (81.3%) | Elapsed: 2m 44s | ETA: 37s
+[17:19:39] Processing file resample_814.tab: 814/1000 (81.4%) | Elapsed: 2m 45s | ETA: 37s
+[17:19:39] Processing file resample_815.tab: 815/1000 (81.5%) | Elapsed: 2m 45s | ETA: 37s
+[17:19:39] Processing file resample_816.tab: 816/1000 (81.6%) | Elapsed: 2m 45s | ETA: 37s
+[17:19:40] Processing file resample_817.tab: 817/1000 (81.7%) | Elapsed: 2m 45s | ETA: 37s
+[17:19:40] Processing file resample_818.tab: 818/1000 (81.8%) | Elapsed: 2m 45s | ETA: 36s
+[17:19:40] Processing file resample_819.tab: 819/1000 (81.9%) | Elapsed: 2m 46s | ETA: 36s
+[17:19:40] Processing file resample_820.tab: 820/1000 (82.0%) | Elapsed: 2m 46s | ETA: 36s
+[17:19:40] Processing file resample_821.tab: 821/1000 (82.1%) | Elapsed: 2m 46s | ETA: 36s
+[17:19:41] Processing file resample_822.tab: 822/1000 (82.2%) | Elapsed: 2m 46s | ETA: 36s
+[17:19:41] Processing file resample_823.tab: 823/1000 (82.3%) | Elapsed: 2m 46s | ETA: 35s
+[17:19:41] Processing file resample_824.tab: 824/1000 (82.4%) | Elapsed: 2m 47s | ETA: 35s
+[17:19:41] Processing file resample_825.tab: 825/1000 (82.5%) | Elapsed: 2m 47s | ETA: 35s
+[17:19:41] Processing file resample_826.tab: 826/1000 (82.6%) | Elapsed: 2m 47s | ETA: 35s
+[17:19:41] Processing file resample_827.tab: 827/1000 (82.7%) | Elapsed: 2m 47s | ETA: 35s
+[17:19:42] Processing file resample_828.tab: 828/1000 (82.8%) | Elapsed: 2m 47s | ETA: 34s
+[17:19:42] Processing file resample_829.tab: 829/1000 (82.9%) | Elapsed: 2m 47s | ETA: 34s
+[17:19:42] Processing file resample_830.tab: 830/1000 (83.0%) | Elapsed: 2m 48s | ETA: 34s
+[17:19:42] Processing file resample_831.tab: 831/1000 (83.1%) | Elapsed: 2m 48s | ETA: 34s
+[17:19:42] Processing file resample_832.tab: 832/1000 (83.2%) | Elapsed: 2m 48s | ETA: 34s
+[17:19:43] Processing file resample_833.tab: 833/1000 (83.3%) | Elapsed: 2m 48s | ETA: 33s
+[17:19:43] Processing file resample_834.tab: 834/1000 (83.4%) | Elapsed: 2m 48s | ETA: 33s
+[17:19:43] Processing file resample_835.tab: 835/1000 (83.5%) | Elapsed: 2m 49s | ETA: 33s
+[17:19:43] Processing file resample_836.tab: 836/1000 (83.6%) | Elapsed: 2m 49s | ETA: 33s
+[17:19:43] Processing file resample_837.tab: 837/1000 (83.7%) | Elapsed: 2m 49s | ETA: 33s
+[17:19:44] Processing file resample_838.tab: 838/1000 (83.8%) | Elapsed: 2m 49s | ETA: 32s
+[17:19:44] Processing file resample_839.tab: 839/1000 (83.9%) | Elapsed: 2m 49s | ETA: 32s
+[17:19:44] Processing file resample_840.tab: 840/1000 (84.0%) | Elapsed: 2m 50s | ETA: 32s
+[17:19:44] Processing file resample_841.tab: 841/1000 (84.1%) | Elapsed: 2m 50s | ETA: 32s
+[17:19:44] Processing file resample_842.tab: 842/1000 (84.2%) | Elapsed: 2m 50s | ETA: 32s
+[17:19:45] Processing file resample_843.tab: 843/1000 (84.3%) | Elapsed: 2m 50s | ETA: 31s
+[17:19:45] Processing file resample_844.tab: 844/1000 (84.4%) | Elapsed: 2m 51s | ETA: 31s
+[17:19:45] Processing file resample_845.tab: 845/1000 (84.5%) | Elapsed: 2m 51s | ETA: 31s
+[17:19:45] Processing file resample_846.tab: 846/1000 (84.6%) | Elapsed: 2m 51s | ETA: 31s
+[17:19:45] Processing file resample_847.tab: 847/1000 (84.7%) | Elapsed: 2m 51s | ETA: 30s
+[17:19:46] Processing file resample_848.tab: 848/1000 (84.8%) | Elapsed: 2m 51s | ETA: 30s
+[17:19:46] Processing file resample_849.tab: 849/1000 (84.9%) | Elapsed: 2m 51s | ETA: 30s
+[17:19:46] Processing file resample_850.tab: 850/1000 (85.0%) | Elapsed: 2m 52s | ETA: 30s
+[17:19:46] Processing file resample_851.tab: 851/1000 (85.1%) | Elapsed: 2m 52s | ETA: 30s
+[17:19:46] Processing file resample_852.tab: 852/1000 (85.2%) | Elapsed: 2m 52s | ETA: 29s
+[17:19:47] Processing file resample_853.tab: 853/1000 (85.3%) | Elapsed: 2m 52s | ETA: 29s
+[17:19:47] Processing file resample_854.tab: 854/1000 (85.4%) | Elapsed: 2m 52s | ETA: 29s
+[17:19:47] Processing file resample_855.tab: 855/1000 (85.5%) | Elapsed: 2m 53s | ETA: 29s
+[17:19:47] Processing file resample_856.tab: 856/1000 (85.6%) | Elapsed: 2m 53s | ETA: 29s
+[17:19:47] Processing file resample_857.tab: 857/1000 (85.7%) | Elapsed: 2m 53s | ETA: 28s
+[17:19:48] Processing file resample_858.tab: 858/1000 (85.8%) | Elapsed: 2m 53s | ETA: 28s
+[17:19:48] Processing file resample_859.tab: 859/1000 (85.9%) | Elapsed: 2m 53s | ETA: 28s
+[17:19:48] Processing file resample_860.tab: 860/1000 (86.0%) | Elapsed: 2m 54s | ETA: 28s
+[17:19:48] Processing file resample_861.tab: 861/1000 (86.1%) | Elapsed: 2m 54s | ETA: 28s
+[17:19:48] Processing file resample_862.tab: 862/1000 (86.2%) | Elapsed: 2m 54s | ETA: 27s
+[17:19:48] Processing file resample_863.tab: 863/1000 (86.3%) | Elapsed: 2m 54s | ETA: 27s
+[17:19:49] Processing file resample_864.tab: 864/1000 (86.4%) | Elapsed: 2m 54s | ETA: 27s
+[17:19:49] Processing file resample_865.tab: 865/1000 (86.5%) | Elapsed: 2m 55s | ETA: 27s
+[17:19:49] Processing file resample_866.tab: 866/1000 (86.6%) | Elapsed: 2m 55s | ETA: 27s
+[17:19:49] Processing file resample_867.tab: 867/1000 (86.7%) | Elapsed: 2m 55s | ETA: 26s
+[17:19:49] Processing file resample_868.tab: 868/1000 (86.8%) | Elapsed: 2m 55s | ETA: 26s
+[17:19:50] Processing file resample_869.tab: 869/1000 (86.9%) | Elapsed: 2m 55s | ETA: 26s
+[17:19:50] Processing file resample_870.tab: 870/1000 (87.0%) | Elapsed: 2m 56s | ETA: 26s
+[17:19:50] Processing file resample_871.tab: 871/1000 (87.1%) | Elapsed: 2m 56s | ETA: 26s
+[17:19:50] Processing file resample_872.tab: 872/1000 (87.2%) | Elapsed: 2m 56s | ETA: 25s
+[17:19:50] Processing file resample_873.tab: 873/1000 (87.3%) | Elapsed: 2m 56s | ETA: 25s
+[17:19:51] Processing file resample_874.tab: 874/1000 (87.4%) | Elapsed: 2m 56s | ETA: 25s
+[17:19:51] Processing file resample_875.tab: 875/1000 (87.5%) | Elapsed: 2m 56s | ETA: 25s
+[17:19:51] Processing file resample_876.tab: 876/1000 (87.6%) | Elapsed: 2m 57s | ETA: 25s
+[17:19:51] Processing file resample_877.tab: 877/1000 (87.7%) | Elapsed: 2m 57s | ETA: 24s
+[17:19:51] Processing file resample_878.tab: 878/1000 (87.8%) | Elapsed: 2m 57s | ETA: 24s
+[17:19:52] Processing file resample_879.tab: 879/1000 (87.9%) | Elapsed: 2m 57s | ETA: 24s
+[17:19:52] Processing file resample_880.tab: 880/1000 (88.0%) | Elapsed: 2m 57s | ETA: 24s
+[17:19:52] Processing file resample_881.tab: 881/1000 (88.1%) | Elapsed: 2m 58s | ETA: 24s
+[17:19:52] Processing file resample_882.tab: 882/1000 (88.2%) | Elapsed: 2m 58s | ETA: 23s
+[17:19:52] Processing file resample_883.tab: 883/1000 (88.3%) | Elapsed: 2m 58s | ETA: 23s
+[17:19:52] Processing file resample_884.tab: 884/1000 (88.4%) | Elapsed: 2m 58s | ETA: 23s
+[17:19:53] Processing file resample_885.tab: 885/1000 (88.5%) | Elapsed: 2m 58s | ETA: 23s
+[17:19:53] Processing file resample_886.tab: 886/1000 (88.6%) | Elapsed: 2m 59s | ETA: 23s
+[17:19:53] Processing file resample_887.tab: 887/1000 (88.7%) | Elapsed: 2m 59s | ETA: 22s
+[17:19:53] Processing file resample_888.tab: 888/1000 (88.8%) | Elapsed: 2m 59s | ETA: 22s
+[17:19:53] Processing file resample_889.tab: 889/1000 (88.9%) | Elapsed: 2m 59s | ETA: 22s
+[17:19:54] Processing file resample_890.tab: 890/1000 (89.0%) | Elapsed: 2m 59s | ETA: 22s
+[17:19:54] Processing file resample_891.tab: 891/1000 (89.1%) | Elapsed: 3m 0s | ETA: 22s
+[17:19:54] Processing file resample_892.tab: 892/1000 (89.2%) | Elapsed: 3m 0s | ETA: 21s
+[17:19:54] Processing file resample_893.tab: 893/1000 (89.3%) | Elapsed: 3m 0s | ETA: 21s
+[17:19:55] Processing file resample_894.tab: 894/1000 (89.4%) | Elapsed: 3m 0s | ETA: 21s
+[17:19:55] Processing file resample_895.tab: 895/1000 (89.5%) | Elapsed: 3m 0s | ETA: 21s
+[17:19:55] Processing file resample_896.tab: 896/1000 (89.6%) | Elapsed: 3m 1s | ETA: 21s
+[17:19:55] Processing file resample_897.tab: 897/1000 (89.7%) | Elapsed: 3m 1s | ETA: 20s
+[17:19:55] Processing file resample_898.tab: 898/1000 (89.8%) | Elapsed: 3m 1s | ETA: 20s
+[17:19:56] Processing file resample_899.tab: 899/1000 (89.9%) | Elapsed: 3m 1s | ETA: 20s
+[17:19:56] Processing file resample_900.tab: 900/1000 (90.0%) | Elapsed: 3m 1s | ETA: 20s
+[17:19:56] Processing file resample_901.tab: 901/1000 (90.1%) | Elapsed: 3m 2s | ETA: 20s
+[17:19:56] Processing file resample_902.tab: 902/1000 (90.2%) | Elapsed: 3m 2s | ETA: 19s
+[17:19:56] Processing file resample_903.tab: 903/1000 (90.3%) | Elapsed: 3m 2s | ETA: 19s
+[17:19:56] Processing file resample_904.tab: 904/1000 (90.4%) | Elapsed: 3m 2s | ETA: 19s
+[17:19:57] Processing file resample_905.tab: 905/1000 (90.5%) | Elapsed: 3m 2s | ETA: 19s
+[17:19:57] Processing file resample_906.tab: 906/1000 (90.6%) | Elapsed: 3m 3s | ETA: 18s
+[17:19:57] Processing file resample_907.tab: 907/1000 (90.7%) | Elapsed: 3m 3s | ETA: 18s
+[17:19:57] Processing file resample_908.tab: 908/1000 (90.8%) | Elapsed: 3m 3s | ETA: 18s
+[17:19:57] Processing file resample_909.tab: 909/1000 (90.9%) | Elapsed: 3m 3s | ETA: 18s
+[17:19:58] Processing file resample_910.tab: 910/1000 (91.0%) | Elapsed: 3m 3s | ETA: 18s
+[17:19:58] Processing file resample_911.tab: 911/1000 (91.1%) | Elapsed: 3m 3s | ETA: 17s
+[17:19:58] Processing file resample_912.tab: 912/1000 (91.2%) | Elapsed: 3m 4s | ETA: 17s
+[17:19:58] Processing file resample_913.tab: 913/1000 (91.3%) | Elapsed: 3m 4s | ETA: 17s
+[17:19:58] Processing file resample_914.tab: 914/1000 (91.4%) | Elapsed: 3m 4s | ETA: 17s
+[17:19:59] Processing file resample_915.tab: 915/1000 (91.5%) | Elapsed: 3m 4s | ETA: 17s
+[17:19:59] Processing file resample_916.tab: 916/1000 (91.6%) | Elapsed: 3m 4s | ETA: 16s
+[17:19:59] Processing file resample_917.tab: 917/1000 (91.7%) | Elapsed: 3m 5s | ETA: 16s
+[17:19:59] Processing file resample_918.tab: 918/1000 (91.8%) | Elapsed: 3m 5s | ETA: 16s
+[17:19:59] Processing file resample_919.tab: 919/1000 (91.9%) | Elapsed: 3m 5s | ETA: 16s
+[17:20:00] Processing file resample_920.tab: 920/1000 (92.0%) | Elapsed: 3m 5s | ETA: 16s
+[17:20:00] Processing file resample_921.tab: 921/1000 (92.1%) | Elapsed: 3m 5s | ETA: 15s
+[17:20:00] Processing file resample_922.tab: 922/1000 (92.2%) | Elapsed: 3m 6s | ETA: 15s
+[17:20:00] Processing file resample_923.tab: 923/1000 (92.3%) | Elapsed: 3m 6s | ETA: 15s
+[17:20:00] Processing file resample_924.tab: 924/1000 (92.4%) | Elapsed: 3m 6s | ETA: 15s
+[17:20:00] Processing file resample_925.tab: 925/1000 (92.5%) | Elapsed: 3m 6s | ETA: 15s
+[17:20:01] Processing file resample_926.tab: 926/1000 (92.6%) | Elapsed: 3m 6s | ETA: 14s
+[17:20:01] Processing file resample_927.tab: 927/1000 (92.7%) | Elapsed: 3m 7s | ETA: 14s
+[17:20:01] Processing file resample_928.tab: 928/1000 (92.8%) | Elapsed: 3m 7s | ETA: 14s
+[17:20:01] Processing file resample_929.tab: 929/1000 (92.9%) | Elapsed: 3m 7s | ETA: 14s
+[17:20:01] Processing file resample_930.tab: 930/1000 (93.0%) | Elapsed: 3m 7s | ETA: 14s
+[17:20:02] Processing file resample_931.tab: 931/1000 (93.1%) | Elapsed: 3m 7s | ETA: 13s
+[17:20:02] Processing file resample_932.tab: 932/1000 (93.2%) | Elapsed: 3m 7s | ETA: 13s
+[17:20:02] Processing file resample_933.tab: 933/1000 (93.3%) | Elapsed: 3m 8s | ETA: 13s
+[17:20:02] Processing file resample_934.tab: 934/1000 (93.4%) | Elapsed: 3m 8s | ETA: 13s
+[17:20:02] Processing file resample_935.tab: 935/1000 (93.5%) | Elapsed: 3m 8s | ETA: 13s
+[17:20:03] Processing file resample_936.tab: 936/1000 (93.6%) | Elapsed: 3m 8s | ETA: 12s
+[17:20:03] Processing file resample_937.tab: 937/1000 (93.7%) | Elapsed: 3m 8s | ETA: 12s
+[17:20:03] Processing file resample_938.tab: 938/1000 (93.8%) | Elapsed: 3m 9s | ETA: 12s
+[17:20:03] Processing file resample_939.tab: 939/1000 (93.9%) | Elapsed: 3m 9s | ETA: 12s
+[17:20:03] Processing file resample_940.tab: 940/1000 (94.0%) | Elapsed: 3m 9s | ETA: 12s
+[17:20:03] Processing file resample_941.tab: 941/1000 (94.1%) | Elapsed: 3m 9s | ETA: 11s
+[17:20:04] Processing file resample_942.tab: 942/1000 (94.2%) | Elapsed: 3m 9s | ETA: 11s
+[17:20:04] Processing file resample_943.tab: 943/1000 (94.3%) | Elapsed: 3m 10s | ETA: 11s
+[17:20:04] Processing file resample_944.tab: 944/1000 (94.4%) | Elapsed: 3m 10s | ETA: 11s
+[17:20:04] Processing file resample_945.tab: 945/1000 (94.5%) | Elapsed: 3m 10s | ETA: 11s
+[17:20:05] Processing file resample_946.tab: 946/1000 (94.6%) | Elapsed: 3m 10s | ETA: 10s
+[17:20:05] Processing file resample_947.tab: 947/1000 (94.7%) | Elapsed: 3m 10s | ETA: 10s
+[17:20:05] Processing file resample_948.tab: 948/1000 (94.8%) | Elapsed: 3m 11s | ETA: 10s
+[17:20:05] Processing file resample_949.tab: 949/1000 (94.9%) | Elapsed: 3m 11s | ETA: 10s
+[17:20:05] Processing file resample_950.tab: 950/1000 (95.0%) | Elapsed: 3m 11s | ETA: 10s
+[17:20:06] Processing file resample_951.tab: 951/1000 (95.1%) | Elapsed: 3m 11s | ETA: 9s
+[17:20:06] Processing file resample_952.tab: 952/1000 (95.2%) | Elapsed: 3m 11s | ETA: 9s
+[17:20:06] Processing file resample_953.tab: 953/1000 (95.3%) | Elapsed: 3m 12s | ETA: 9s
+[17:20:06] Processing file resample_954.tab: 954/1000 (95.4%) | Elapsed: 3m 12s | ETA: 9s
+[17:20:06] Processing file resample_955.tab: 955/1000 (95.5%) | Elapsed: 3m 12s | ETA: 9s
+[17:20:06] Processing file resample_956.tab: 956/1000 (95.6%) | Elapsed: 3m 12s | ETA: 8s
+[17:20:07] Processing file resample_957.tab: 957/1000 (95.7%) | Elapsed: 3m 12s | ETA: 8s
+[17:20:07] Processing file resample_958.tab: 958/1000 (95.8%) | Elapsed: 3m 12s | ETA: 8s
+[17:20:07] Processing file resample_959.tab: 959/1000 (95.9%) | Elapsed: 3m 13s | ETA: 8s
+[17:20:07] Processing file resample_960.tab: 960/1000 (96.0%) | Elapsed: 3m 13s | ETA: 8s
+[17:20:07] Processing file resample_961.tab: 961/1000 (96.1%) | Elapsed: 3m 13s | ETA: 7s
+[17:20:08] Processing file resample_962.tab: 962/1000 (96.2%) | Elapsed: 3m 13s | ETA: 7s
+[17:20:08] Processing file resample_963.tab: 963/1000 (96.3%) | Elapsed: 3m 13s | ETA: 7s
+[17:20:08] Processing file resample_964.tab: 964/1000 (96.4%) | Elapsed: 3m 14s | ETA: 7s
+[17:20:08] Processing file resample_965.tab: 965/1000 (96.5%) | Elapsed: 3m 14s | ETA: 7s
+[17:20:08] Processing file resample_966.tab: 966/1000 (96.6%) | Elapsed: 3m 14s | ETA: 6s
+[17:20:08] Processing file resample_967.tab: 967/1000 (96.7%) | Elapsed: 3m 14s | ETA: 6s
+[17:20:09] Processing file resample_968.tab: 968/1000 (96.8%) | Elapsed: 3m 14s | ETA: 6s
+[17:20:09] Processing file resample_969.tab: 969/1000 (96.9%) | Elapsed: 3m 15s | ETA: 6s
+[17:20:09] Processing file resample_970.tab: 970/1000 (97.0%) | Elapsed: 3m 15s | ETA: 6s
+[17:20:09] Processing file resample_971.tab: 971/1000 (97.1%) | Elapsed: 3m 15s | ETA: 5s
+[17:20:09] Processing file resample_972.tab: 972/1000 (97.2%) | Elapsed: 3m 15s | ETA: 5s
+[17:20:10] Processing file resample_973.tab: 973/1000 (97.3%) | Elapsed: 3m 15s | ETA: 5s
+[17:20:10] Processing file resample_974.tab: 974/1000 (97.4%) | Elapsed: 3m 15s | ETA: 5s
+[17:20:10] Processing file resample_975.tab: 975/1000 (97.5%) | Elapsed: 3m 16s | ETA: 5s
+[17:20:10] Processing file resample_976.tab: 976/1000 (97.6%) | Elapsed: 3m 16s | ETA: 4s
+[17:20:10] Processing file resample_977.tab: 977/1000 (97.7%) | Elapsed: 3m 16s | ETA: 4s
+[17:20:11] Processing file resample_978.tab: 978/1000 (97.8%) | Elapsed: 3m 16s | ETA: 4s
+[17:20:11] Processing file resample_979.tab: 979/1000 (97.9%) | Elapsed: 3m 16s | ETA: 4s
+[17:20:11] Processing file resample_980.tab: 980/1000 (98.0%) | Elapsed: 3m 17s | ETA: 4s
+[17:20:11] Processing file resample_981.tab: 981/1000 (98.1%) | Elapsed: 3m 17s | ETA: 3s
+[17:20:11] Processing file resample_982.tab: 982/1000 (98.2%) | Elapsed: 3m 17s | ETA: 3s
+[17:20:12] Processing file resample_983.tab: 983/1000 (98.3%) | Elapsed: 3m 17s | ETA: 3s
+[17:20:12] Processing file resample_984.tab: 984/1000 (98.4%) | Elapsed: 3m 17s | ETA: 3s
+[17:20:12] Processing file resample_985.tab: 985/1000 (98.5%) | Elapsed: 3m 18s | ETA: 3s
+[17:20:12] Processing file resample_986.tab: 986/1000 (98.6%) | Elapsed: 3m 18s | ETA: 2s
+[17:20:12] Processing file resample_987.tab: 987/1000 (98.7%) | Elapsed: 3m 18s | ETA: 2s
+[17:20:12] Processing file resample_988.tab: 988/1000 (98.8%) | Elapsed: 3m 18s | ETA: 2s
+[17:20:13] Processing file resample_989.tab: 989/1000 (98.9%) | Elapsed: 3m 18s | ETA: 2s
+[17:20:13] Processing file resample_990.tab: 990/1000 (99.0%) | Elapsed: 3m 19s | ETA: 2s
+[17:20:13] Processing file resample_991.tab: 991/1000 (99.1%) | Elapsed: 3m 19s | ETA: 1s
+[17:20:13] Processing file resample_992.tab: 992/1000 (99.2%) | Elapsed: 3m 19s | ETA: 1s
+[17:20:13] Processing file resample_993.tab: 993/1000 (99.3%) | Elapsed: 3m 19s | ETA: 1s
+[17:20:14] Processing file resample_994.tab: 994/1000 (99.4%) | Elapsed: 3m 19s | ETA: 1s
+[17:20:14] Processing file resample_995.tab: 995/1000 (99.5%) | Elapsed: 3m 20s | ETA: 1s
+[17:20:14] Processing file resample_996.tab: 996/1000 (99.6%) | Elapsed: 3m 20s | ETA: 0s
+[17:20:14] Processing file resample_997.tab: 997/1000 (99.7%) | Elapsed: 3m 20s | ETA: 0s
+[17:20:14] Processing file resample_998.tab: 998/1000 (99.8%) | Elapsed: 3m 20s | ETA: 0s
+[17:20:15] Processing file resample_999.tab: 999/1000 (99.9%) | Elapsed: 3m 20s | ETA: 0s
+[17:20:15] Processing file resample_1000.tab: 1000/1000 (100.0%) | Elapsed: 3m 20s | ETA: 0s
