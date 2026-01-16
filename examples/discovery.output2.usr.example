@@ -1,6 +1,6 @@
-Gene	Trait	Position	Substitution	Pvalue	Pattern	FFGN	FBGN	GFG	GBG	MFG	MBG	FFG	FBG	MS	ConservedPair	ConservedPairs
-BRCA1	config_np.tab	745	VEG/EEE	0.0001342361019474176	pattern3	3	3	0	0	0	0	Nycticebus_pygmaeus,Saguinus_oedipus,Gorilla_gorilla	Galago_senegalensis,Saguinus_midas,Theropithecus_gelada	-	TRUE	1:2
-BRCA1	config_np.tab	936	GAE/AAA	0.00805682786435569	pattern3	3	3	0	0	0	0	Nycticebus_pygmaeus,Saguinus_oedipus,Gorilla_gorilla	Galago_senegalensis,Saguinus_midas,Theropithecus_gelada	-	TRUE	1:2
-BRCA1	config_np.tab	1193	AAA/VAS	0.0012060465635847578	pattern2	3	3	0	0	0	0	Nycticebus_pygmaeus,Saguinus_oedipus,Gorilla_gorilla	Galago_senegalensis,Saguinus_midas,Theropithecus_gelada	-	TRUE	1:2
-BRCA1	config_np.tab	1544	EEE/QEK	0.026169906571206047	pattern2	3	3	0	0	0	0	Nycticebus_pygmaeus,Saguinus_oedipus,Gorilla_gorilla	Galago_senegalensis,Saguinus_midas,Theropithecus_gelada	-	TRUE	1:2
-BRCA1	config_np.tab	1553	KKK/SKE	0.0009545929311197852	pattern2	3	3	0	0	0	0	Nycticebus_pygmaeus,Saguinus_oedipus,Gorilla_gorilla	Galago_senegalensis,Saguinus_midas,Theropithecus_gelada	-	TRUE	1:2
+Gene	Mode	Trait	Position	Substitution	Pvalue	Pattern	FFGN	FBGN	GFG	GBG	MFG	MBG	FFG	FBG	MS	ConservedPair	ConservedPairs
+BRCA1	CAAS	config_np.tab	745	VEG/EEE	0.0001342361019474176	pattern3	3	3	0	0	0	0	Nycticebus_pygmaeus,Saguinus_oedipus,Gorilla_gorilla	Galago_senegalensis,Saguinus_midas,Theropithecus_gelada	-	TRUE	1:2
+BRCA1	CAAS	config_np.tab	936	GAE/AAA	0.00805682786435569	pattern3	3	3	0	0	0	0	Nycticebus_pygmaeus,Saguinus_oedipus,Gorilla_gorilla	Galago_senegalensis,Saguinus_midas,Theropithecus_gelada	-	TRUE	1:2
+BRCA1	CAAS	config_np.tab	1193	AAA/VAS	0.0012060465635847578	pattern2	3	3	0	0	0	0	Nycticebus_pygmaeus,Saguinus_oedipus,Gorilla_gorilla	Galago_senegalensis,Saguinus_midas,Theropithecus_gelada	-	TRUE	1:2
+BRCA1	CAAS	config_np.tab	1544	EEE/QEK	0.026169906571206047	pattern2	3	3	0	0	0	0	Nycticebus_pygmaeus,Saguinus_oedipus,Gorilla_gorilla	Galago_senegalensis,Saguinus_midas,Theropithecus_gelada	-	TRUE	1:2
+BRCA1	CAAS	config_np.tab	1553	KKK/SKE	0.0009545929311197852	pattern2	3	3	0	0	0	0	Nycticebus_pygmaeus,Saguinus_oedipus,Gorilla_gorilla	Galago_senegalensis,Saguinus_midas,Theropithecus_gelada	-	TRUE	1:2
