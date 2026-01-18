@@ -369,7 +369,7 @@ def fetch_caap(genename: str, position_obj, trait_list: List[str],
                miss_pair: bool = False, max_conserved: int = 0,
                species_in_alignment: Optional[List[str]] = None,
                allowed_patterns: Optional[List[str]] = None,
-               multiconfig=None):
+               multiconfig=None, return_results: bool = False):
     """
     Identify CAAP (Convergent Amino Acid Properties) for all traits at a position.
     
@@ -387,11 +387,12 @@ def fetch_caap(genename: str, position_obj, trait_list: List[str],
         max_fg_miss: Maximum missing species in foreground
         max_bg_miss: Maximum missing species in background
         max_overall_miss: Maximum missing overall
-        output_file: Path to output file
+        output_file: Path to output file (or None if return_results=True)
         paired_mode: Whether to use pair-aware mode
         miss_pair: Whether to allow missing pairs
         max_conserved: Maximum number of amino acids allowed to overlap with other side's groups
         species_in_alignment: List of species in alignment (for p-value calculation)
+        return_results: If True, return list of result lines instead of writing to file
     
     Output columns:
         Gene, Mode, CAAP_Group, Trait, Position, Substitution, Encoded, Pvalue, Pattern,
@@ -401,6 +402,9 @@ def fetch_caap(genename: str, position_obj, trait_list: List[str],
     # Ensure species_in_alignment is provided
     if species_in_alignment is None:
         species_in_alignment = []
+    
+    # Collect results if return_results=True
+    result_lines = []
     
     # Filter traits by gap and missing thresholds
     valid_traits = []
@@ -572,6 +576,14 @@ def fetch_caap(genename: str, position_obj, trait_list: List[str],
                 output_line.append(has_conserved)
                 output_line.append(conserved_pairs)
             
-            # Write to output file
-            with open(output_file, "a") as outf:
-                outf.write("\t".join(output_line) + "\n")
+            # Write to output file or collect for return
+            output_line_str = "\t".join(output_line)
+            if return_results:
+                result_lines.append(output_line_str)
+            elif output_file:
+                with open(output_file, "a") as outf:
+                    outf.write(output_line_str + "\n")
+    
+    # Return results if requested
+    if return_results:
+        return result_lines

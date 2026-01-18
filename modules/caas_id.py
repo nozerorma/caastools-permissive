@@ -324,7 +324,7 @@ def iscaas(input_string, multiconfig=None, position_dict=None, max_conserved=0, 
 # FUNCTION fetch_caas():
 # fetches caas per each thing
 
-def fetch_caas(genename, processed_position, list_of_traits, output_file, maxgaps_fg, maxgaps_bg, maxgaps_all, maxmiss_fg, maxmiss_bg, maxmiss_all, multiconfig, miss_pair=False, max_conserved=0, admitted_patterns = ["1","2","3"]):
+def fetch_caas(genename, processed_position, list_of_traits, output_file, maxgaps_fg, maxgaps_bg, maxgaps_all, maxmiss_fg, maxmiss_bg, maxmiss_all, multiconfig, miss_pair=False, max_conserved=0, admitted_patterns = ["1","2","3"], return_results=False):
 
     a = set(list_of_traits)
     b = set(processed_position.trait2aas_fg.keys())
@@ -454,8 +454,8 @@ def fetch_caas(genename, processed_position, list_of_traits, output_file, maxgap
         # Header is now written in disco.py
         # Just append output if we have traits to write
         if len(output_traits) > 0:
-            out = open(output_file, "a")
-
+            result_lines = []
+            
             for trait in output_traits:
 
                 traitname = trait.split("@")[0]            
@@ -537,8 +537,18 @@ def fetch_caas(genename, processed_position, list_of_traits, output_file, maxgap
                     else:
                         output_fields.extend(["FALSE", "0:"])
                 
-                #pvalue_string = pvdict[genename + "@" + processed_position.position]
-                print("\t".join(output_fields), file = out)
+                result_line = "\t".join(output_fields)
+                result_lines.append(result_line)
             
-
-            out.close()
+            # Return results or write to file
+            if return_results:
+                return result_lines
+            elif output_file:
+                out = open(output_file, "a")
+                for line in result_lines:
+                    print(line, file = out)
+                out.close()
+    
+    # Return empty list if no results and return_results=True
+    if return_results:
+        return []
